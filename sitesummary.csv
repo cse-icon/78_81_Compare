@@ -1,0 +1,1450 @@
+Site,Good,Bad,State,Bad Tags
+albert/pad;ALBERT_KKW_BL,69,1,Close,
+albert/wells/well_1;ALBERT_W_KKW_BL_2H,42,5,Needs work,
+albert/wells/well_2;ALBERT_SW_KKW_BL_4H,37,14,Needs work,
+albert/wells/well_3;ALBERT_S_KKW_BL_6H,35,16,Needs work,
+albert/wells/well_4;ALBERT_SE_KKW_BL_8H,34,15,Needs work,
+albert/wells/well_5;ALBERT_E_KKW_BL_10H,25,30,Needs work,
+Pad Total (albert):353
+albright/pad;ALBRIGHT,12,24,Needs work,
+albright/wells/well_1;ALBRIGHT_UNIT_2H,18,3,Close,
+albright/wells/well_2;ALBRIGHT_UNIT_6H,18,3,Close,
+albright/wells/well_3;ALBRIGHT_UNIT_4H,17,4,Close,
+Pad Total (albright):99
+amber/pad;AMBER_WEL_JF,45,11,Needs work,
+amber/wells/well_1;AMBER_NW_WEL_JF_1H,34,13,Needs work,
+amber/wells/well_2;AMBER_SW_WEL_JF_2H,30,25,Needs work,
+amber/wells/well_3;AMBER_NE_WEL_JF_3H,30,17,Needs work,
+amber/wells/well_4;AMBER_SE_WEL_JF_4H,32,15,Needs work,
+Pad Total (amber):272
+archer_a/pad;ABLE_ARC_HR,40,8,Needs work,
+archer_a/wells/well_1;ABLE_ARC_HR_1H,11,0,Perfect!,
+archer_a/wells/well_2;ABLE_ARC_HR_3H,11,0,Perfect!,
+archer_a/wells/well_3;ABLE_ARC_HR_5H,11,0,Perfect!,
+archer_a/wells/well_4;ABLE_ARC_HR_7H,11,0,Perfect!,
+Pad Total (archer_a):92
+archie/pad;ARCHIE_WYN_JF,56,24,Needs work,
+archie/wells/well_1;ARCHIE_W_WYN_JF_2H,16,8,Needs work,
+archie/wells/well_2;ARCHIE_W_WYN_JF_4H,17,8,Needs work,
+archie/wells/well_3;ARCHIE_E_WYN_JF_6H,17,8,Needs work,
+archie/wells/well_4;ARCHIE_E_WYN_JF_8H,12,14,Needs work,
+Pad Total (archie):180
+ast/pad;None,0,0,Unable to Process!
+Pad Total (ast):0
+athena/pad;ATHENA_SMF_JF,50,0,Perfect!,
+athena/wells/well_1;ATHENA_NW_SMF_JF_1H,33,2,Close,
+athena/wells/well_2;ATHENA_N_SMF_JF_3H,30,5,Needs work,
+athena/wells/well_3;ATHENA_NE_SMF_JF_5H,30,5,Needs work,
+athena/wells/well_4;ATHENA_NE_SMF_JF_7H,31,5,Needs work,
+Pad Total (athena):211
+athens_a/pad;ALPHA_ATH_HR,42,11,Needs work,
+athens_a/wells/well_1;ALPHA_ATH_HR_2H,16,0,Perfect!,
+athens_a/wells/well_2;ALPHA_ATH_HR_4H,16,0,Perfect!,
+athens_a/wells/well_3;ALPHA_ATH_HR_6H,16,0,Perfect!,
+Pad Total (athens_a):101
+athens_b/pad;BRAVO_ATH_HR,34,9,Needs work,
+athens_b/wells/well_1;BRAVO_ATH_HR_1H,19,0,Perfect!,
+athens_b/wells/well_2;BRAVO_ATH_HR_3H,19,0,Perfect!,
+athens_b/wells/well_3;BRAVO_ATH_HR_5H,19,0,Perfect!,
+athens_b/wells/well_4;BRAVO_ATH_HR_7H,18,0,Perfect!,
+Pad Total (athens_b):118
+athens_c/pad;CHARLEY_ATH_HR,36,13,Needs work,
+athens_c/wells/well_1;CHARLEY_ATH_HR_2H,18,1,Close,
+athens_c/wells/well_2;CHARLEY_ATH_HR_4H,15,4,Close,
+athens_c/wells/well_3;CHARLEY_ATH_HR_6H,19,0,Perfect!,
+athens_c/wells/well_4;CHARLEY_ATH_HR_8H,22,5,Needs work,
+athens_c/wells/well_5;CHARLEY_ATH_HR_10H,19,0,Perfect!,
+athens_c/wells/well_6;CHARLEY_ATH_HR_12H,11,1,Close,
+Pad Total (athens_c):164
+athens_e/pad;ECHO_ATH_HR,35,16,Needs work,
+athens_e/wells/well_1;ECHO_ATH_HR_1H,19,0,Perfect!,
+athens_e/wells/well_2;ECHO_ATH_HR_3H,19,0,Perfect!,
+athens_e/wells/well_3;ECHO_ATH_HR_5H,19,0,Perfect!,
+athens_e/wells/well_4;ECHO_ATH_HR_7H,19,0,Perfect!,
+athens_e/wells/well_5;ECHO_ATH_HR_9H,19,0,Perfect!,
+athens_e/wells/well_6;ECHO_S_ATH_HR_8H,55,0,Unable to Process!
+athens_e/wells/well_7;ECHO_S_ATH_HR_6H,56,0,Unable to Process!
+Pad Total (athens_e):257
+athens_f/pad;FOXTROT_ATH_HR,31,1,Close,
+athens_f/wells/well_1;FOXTROT_ATH_HR_1H,13,0,Perfect!,
+athens_f/wells/well_2;FOXTROT_ATH_HR_3H,13,0,Perfect!,
+athens_f/wells/well_3;FOXTROT_ATH_HR_5H,13,0,Perfect!,
+athens_f/wells/well_4;FOXTROT_ATH_HR_7H,13,0,Perfect!,
+athens_f/wells/well_5;FOXTROT_ATH_HR_9H,13,0,Perfect!,
+Pad Total (athens_f):97
+atlas/pad;ATLAS_WEL_JF,61,0,Perfect!,
+atlas/wells/well_1;ATLAS_NE_WEL_JF_9H,29,3,Close,
+atlas/wells/well_2;ATLAS_NE_WEL_JF_7H,28,7,Needs work,
+atlas/wells/well_3;ATLAS_N_WEL_JF_5H,28,8,Needs work,
+atlas/wells/well_4;ATLAS_NW_WEL_JF_3H,28,8,Needs work,
+atlas/wells/well_5;ATLAS_NW_WEL_JF_1H,28,8,Needs work,
+Pad Total (atlas):261
+bakos/pad;BAKOS_CLR_BL,50,5,Needs work,
+bakos/wells/well_1;BAKOS_NE_CLR_BL_9H,11,24,Needs work,
+bakos/wells/well_2;BAKOS_SE_CLR_BL_8H,14,20,Needs work,
+bakos/wells/well_3;BAKOS_SW_CLR_BL_2H,11,24,Needs work,
+bakos/wells/well_4;BAKOS_SE_CLR_BL_10H,12,23,Needs work,
+bakos/wells/well_5;BAKOS_S_CLR_BL_6H,12,22,Needs work,
+bakos/wells/well_6;BAKOS_S_CLR_BL_4H,10,24,Needs work,
+Pad Total (bakos):292
+banjo/pad;BANJO_SHC_HR,63,7,Needs work,
+banjo/wells/well_1;BANJO_E_SHC_HR_6H,30,8,Needs work,
+banjo/wells/well_2;BANJO_E_SHC_HR_4H,20,16,Needs work,
+banjo/wells/well_3;BANJO_W_SHC_HR_2H,20,16,Needs work,
+Pad Total (banjo):199
+bannock/pad;BANNOCK_UNN_BL,62,29,Needs work,
+bannock/wells/well_1;BANNOCK_UNN_BL_2H,12,17,Needs work,
+bannock/wells/well_2;BANNOCK_UNN_BL_4H,10,19,Needs work,
+bannock/wells/well_3;BANNOCK_N_UNN_BL_1H,18,43,Needs work,
+bannock/wells/well_4;BANNOCK_N_UNN_BL_3H,16,46,Needs work,
+Pad Total (bannock):297
+bedway/pad;BEDWAY_UNN_BL,50,7,Needs work,
+bedway/wells/well_1;BEDWAY_N_UNN_BL_5H,28,11,Needs work,
+bedway/wells/well_2;BEDWAY_N_UNN_BL_3H,25,14,Needs work,
+bedway/wells/well_3;BEDWAY_N_UNN_BL_1H,25,14,Needs work,
+Pad Total (bedway):189
+beetle/pad;BEETLE_SHC_HR,64,1,Close,
+beetle/wells/well_1;BEETLE_SHC_HR_3H,30,8,Needs work,
+beetle/wells/well_2;BEETLE_SHC_HR_1H,20,16,Needs work,
+Pad Total (beetle):152
+bella/pad;BELLA_CDZ_HR,86,31,Needs work,
+bella/wells/well_1;BELLA_SE_CDZ_HR_4H,37,6,Needs work,
+bella/wells/well_2;BELLA_NE_CDZ_HR_5H,36,18,Needs work,
+bella/wells/well_3;BELLA_SW_CDZ_HR_2H,36,20,Needs work,
+bella/wells/well_4;BELLA_N_CDZ_HR_3H,36,18,Needs work,
+bella/wells/well_5;BELLA_NW_CDZ_HR_1H,37,30,Needs work,
+Pad Total (bella):436
+bennington/pad;BENNINGTON,21,9,Needs work,
+bennington/wells/well_1;BENNINGTON_UNIT_2H,19,3,Close,
+bennington/wells/well_2;BENNINGTON_UNIT_B_4H,19,3,Close,
+Pad Total (bennington):74
+besece/pad;BESECE_MTP_JF,48,0,Perfect!,
+besece/wells/well_1;BESECE_S_MTP_JF_2H,31,3,Close,
+besece/wells/well_2;BESECE_W_MTP_JF_1H,35,4,Close,
+besece/wells/well_3;BESECE_E_MTP_JF_3H,35,3,Close,
+besece/wells/well_4;BESECE_E_MTP_JF_5H,32,3,Close,
+Pad Total (besece):218
+betts/pad;BETTS_LND_GR,108,13,Needs work,
+betts/wells/well_1;BETTS_LND_GR_2H,45,16,Needs work,
+betts/wells/well_2;BETTS_LND_GR_4H,39,11,Needs work,
+betts/wells/well_3;BETTS_LND_GR_6H,43,13,Needs work,
+betts/wells/well_4;BETTS_NE_LND_GR_7H,46,11,Needs work,
+betts/wells/well_5;BETTS_N_LND_GR_5H,46,11,Needs work,
+betts/wells/well_6;BETTS_NW_LND_GR_3H,46,11,Needs work,
+betts/wells/well_7;BETTS_NW_LND_GR_1H,46,11,Needs work,
+Pad Total (betts):584
+bilinovich/pad;BILINOVICH_LND_GR,60,1,Close,
+bilinovich/wells/well_1;BILINOVICH_E_LND_GR_8H,46,1,Close,
+bilinovich/wells/well_2;BILINOVICH_E_LND_GR_6H,38,9,Needs work,
+bilinovich/wells/well_3;BILINOVICH_W_LND_GR_4H,30,21,Needs work,
+bilinovich/wells/well_4;BILINOVICH_W_LND_GR_2H,30,13,Needs work,
+Pad Total (bilinovich):273
+black_racer/pad;BLACK_RACER_LND_GR,64,20,Needs work,
+black_racer/wells/well_1;BLACK_RACER_W_LND_GR_1H,37,2,Close,
+black_racer/wells/well_2;BLACK_RACER_W_LND_GR_3H,26,12,Needs work,
+black_racer/wells/well_3;BLACK_RACER_S_LND_GR_2H,25,15,Needs work,
+black_racer/wells/well_4;BLACK_RACER_S_LND_GR_4H,27,15,Needs work,
+Pad Total (black_racer):268
+blayney/pad;BLAYNEY_WHL_BL,75,17,Needs work,
+blayney/wells/well_1;BLAYNEY_E_WHL_BL_5H-A,38,2,Close,
+blayney/wells/well_2;BLAYNEY_N_WHL_BL_3H,29,12,Needs work,
+blayney/wells/well_3;BLAYNEY_W_WHL_BL_1H-A,30,11,Needs work,
+blayney/wells/well_4;BLAYNEY_SW_WHL_BL_2H,24,9,Needs work,
+blayney/wells/well_5;BLAYNEY_S_WHL_BL_4H,25,10,Needs work,
+blayney/wells/well_6;BLAYNEY_SE_WHL_BL_6H,27,8,Needs work,
+Pad Total (blayney):353
+blessed/pad;BLESSED_RCH_BL,51,0,Perfect!,
+blessed/wells/well_1;BLESSED_E_RCH_BL_9H,35,11,Needs work,
+blessed/wells/well_2;BLESSED_E_RCH_BL_7H,27,19,Needs work,
+blessed/wells/well_3;BLESSED_N_RCH_BL_5H,30,16,Needs work,
+blessed/wells/well_4;BLESSED_W_RCH_BL_3H,30,13,Needs work,
+blessed/wells/well_5;BLESSED_NW_RCH_BL_1H,29,14,Needs work,
+Pad Total (blessed):300
+borovich/pad;BOROVICH_RCH_BL,56,4,Close,
+borovich/wells/well_1;BOROVICH_W_RCH_BL_1H,31,7,Needs work,
+borovich/wells/well_2;BOROVICH_W_RCH_BL_3H,26,12,Needs work,
+Pad Total (borovich):149
+borum/pad;BORUM_SMF_JF,55,0,Perfect!,
+borum/wells/well_1;BORUM_E_SMF_JF_6H,26,9,Needs work,
+borum/wells/well_2;BORUM_E_SMF_JF_4H,26,9,Needs work,
+borum/wells/well_3;BORUM_W_SMF_JF_2H,26,9,Needs work,
+borum/wells/well_4;BORUM_NE_SMF_JF_5H,36,8,Needs work,
+borum/wells/well_5;BORUM_N_SMF_JF_3H,35,9,Needs work,
+borum/wells/well_6;BORUM_NW_SMF_JF_1H,26,10,Needs work,
+Pad Total (borum):320
+bouska/pad;BOUSKA_FRE_HR,0,0,Unable to Process!
+bouska/wells/well_1;BOUSKA_NE_FRE_HR_13H,0,0,Unable to Process!
+bouska/wells/well_2;BOUSKA_NE_FRE_HR_11H,0,0,Unable to Process!
+bouska/wells/well_3;BOUSKA_N_FRE_HR_9H,0,0,Unable to Process!
+bouska/wells/well_4;BOUSKA_N_FRE_HR_7H,0,0,Unable to Process!
+Pad Total (bouska):0
+bravo/pad;BRAVO_ATH_HR,0,57,Failed!,
+bravo/wells/well_1;BRAVO_SW_ATH_HR_2H,46,10,Needs work,
+bravo/wells/well_2;BRAVO_S_ATH_HR_4H,42,19,Needs work,
+bravo/wells/well_3;BRAVO_SE_ATH_HR_6H,35,14,Needs work,
+Pad Total (bravo):241
+breeze/pad;BREEZE_RCH_BL,37,3,Close,
+breeze/wells/well_1;BREEZE_W_RCH_BL_1H,29,14,Needs work,
+breeze/wells/well_2;BREEZE_E_RCH_BL_3H,26,10,Needs work,
+breeze/wells/well_3;BREEZE_E_RCH_BL_5H,26,10,Needs work,
+Pad Total (breeze):173
+brown/pad;BROWN_WSG_GR,0,53,Unable to Process!
+brown/wells/well_1;BROWN_1-H,0,4,Unable to Process!
+Pad Total (brown):0
+bsa/pad;RH_BSA_NTG_HR,57,26,Needs work,
+bsa/wells/well_1;RH_BSA_N_NTG_HR_1H,29,6,Needs work,
+bsa/wells/well_2;RH_BSA_S_NTG_HR_2H,36,6,Needs work,
+bsa/wells/well_3;RH_BSA_N_NTG_HR_3H,29,6,Needs work,
+bsa/wells/well_4;RH_BSA_S_NTG_HR_4H,30,6,Needs work,
+bsa/wells/well_5;RH_BSA_N_NTG_HR_5H,22,14,Needs work,
+bsa/wells/well_6;RH_BSA_S_NTG_HR_6H,22,14,Needs work,
+bsa/wells/well_7;RH_BSA_N_NTG_HR_7H,22,14,Needs work,
+bsa/wells/well_8;RH_BSA_S_NTG_HR_8H,23,13,Needs work,
+bsa/wells/well_9;RH_BSA_N_NTG_HR_9H,22,14,Needs work,
+Pad Total (bsa):446
+cadiz_a/pad;ACE_CDZ_HR,40,11,Needs work,
+cadiz_a/wells/well_1;ACE_W_CDZ_HR_4H,12,0,Perfect!,
+cadiz_a/wells/well_2;ACE_W_CDZ_HR_2H,13,0,Perfect!,
+cadiz_a/wells/well_3;ACE_W_CDZ_HR_6H,13,0,Perfect!,
+cadiz_a/wells/well_4;ACE_E_CDZ_HR_8H,13,0,Perfect!,
+Pad Total (cadiz_a):102
+cadiz_b/pad;BEACON_CDZ_HR,41,7,Needs work,
+cadiz_b/wells/well_1;BEACON_CDZ_HR_2H,10,0,Perfect!,
+cadiz_b/wells/well_2;BEACON_CDZ_HR_4H,10,0,Perfect!,
+cadiz_b/wells/well_3;BEACON_CDZ_HR_6H,10,0,Perfect!,
+cadiz_b/wells/well_4;BEACON_CDZ_HR_8H,10,0,Perfect!,
+cadiz_b/wells/well_5;BEACON_CDZ_HR_10H,9,0,Perfect!,
+Pad Total (cadiz_b):97
+cadiz_c/pad;COBRA_CDZ_HR,36,8,Needs work,
+cadiz_c/wells/well_1;COBRA_CDZ_HR_1H,19,0,Perfect!,
+cadiz_c/wells/well_2;COBRA_CDZ_HR_3H,19,0,Perfect!,
+cadiz_c/wells/well_3;COBRA_CDZ_HR_5H,19,0,Perfect!,
+cadiz_c/wells/well_4;COBRA_CDZ_HR_7H,19,0,Perfect!,
+cadiz_c/wells/well_5;COBRA_CDZ_HR_9H,18,0,Perfect!,
+Pad Total (cadiz_c):138
+cadiz_d/pad;DOMINO_CDZ_HR,9,87,Needs work,
+cadiz_d/wells/well_1;DOMINO_CDZ_HR_2H-A,21,36,Needs work,
+cadiz_d/wells/well_10;DOMINO_NW_CDZ_HR_1H,41,0,Unable to Process!
+cadiz_d/wells/well_2;DOMINO_CDZ_HR_4H,21,0,Perfect!,
+cadiz_d/wells/well_3;DOMINO_CDZ_HR_6H,21,0,Perfect!,
+cadiz_d/wells/well_4;DOMINO_CDZ_HR_8H,21,0,Perfect!,
+cadiz_d/wells/well_5;DOMINO_CDZ_HR_10H,21,0,Perfect!,
+cadiz_d/wells/well_6;DOMINO_NE_CDZ_HR_7H-A,41,0,Unable to Process!
+cadiz_d/wells/well_7;DOMINO_NE_CDZ_HR_9H,40,0,Unable to Process!
+cadiz_d/wells/well_8;DOMINO_N_CDZ_HR_5H,39,0,Unable to Process!
+cadiz_d/wells/well_9;DOMINO_NW_CDZ_HR_3H,40,0,Unable to Process!
+Pad Total (cadiz_d):443
+carlos/pad;CARLOS_RCH_BL,72,3,Close,
+carlos/wells/well_1;CARLOS_W_RCH_BL_1H,31,10,Needs work,
+carlos/wells/well_2;CARLOS_E_RCH_BL_3H,28,14,Needs work,
+Pad Total (carlos):168
+caston/pad;CASTON_LND_GR,145,85,Needs work,
+caston/wells/well_1;CASTON_LND_GR_2H,10,28,Needs work,
+caston/wells/well_2;CASTON_LND_GR_4H,36,4,Close,
+caston/wells/well_3;CASTON_LND_GR_6H,0,39,Failed!,
+caston/wells/well_4;CASTON_LND_GR_8H,47,0,Unable to Process!
+caston/wells/well_5;CASTON_NW_LND_GR_1H,25,17,Needs work,
+caston/wells/well_6;CASTON_NW_LND_GR_3H,26,17,Needs work,
+caston/wells/well_7;CASTON_NE_LND_GR_5H,25,17,Needs work,
+caston/wells/well_8;CASTON_NE_LND_GR_7H,25,17,Needs work,
+Pad Total (caston):598
+cecelia/pad;CECELIA_WEL_JF,49,2,Close,
+cecelia/wells/well_1;CECELIA_SE_WEL_JF_8H,38,9,Needs work,
+cecelia/wells/well_2;CECELIA_SE_WEL_JF_6H,36,12,Needs work,
+cecelia/wells/well_3;CECELIA_SW_WEL_JF_4H,36,12,Needs work,
+cecelia/wells/well_4;CECELIA_SW_WEL_JF_2H,25,19,Needs work,
+Pad Total (cecelia):258
+cena/pad;CENA_WYN_JF,54,0,Perfect!,
+cena/wells/well_1;CENA_WYN_JF_4H,34,4,Close,
+cena/wells/well_2;CENA_WYN_JF_2H,24,15,Needs work,
+Pad Total (cena):143
+cermak/pad;CERMAK_SMF_JF,48,2,Close,
+cermak/wells/well_1;CERMAK_NE_SMF_JF_3H,30,14,Needs work,
+cermak/wells/well_2;CERMAK_NE_SMF_JF_5H,30,15,Needs work,
+Pad Total (cermak):149
+cesario/pad;CESARIO_MTP_JF,44,1,Close,
+cesario/wells/well_1;CESARIO_NE_MTP_JF_5H,31,6,Needs work,
+cesario/wells/well_2;CESARIO_N_MTP_JF_3H,28,9,Needs work,
+cesario/wells/well_3;CESARIO_NW_MTP_JF_1H,28,9,Needs work,
+Pad Total (cesario):171
+club/pad;CLUB_SMF_JF,38,8,Needs work,
+club/wells/well_1;CLUB_NW_SMF_JF_1H,34,3,Close,
+club/wells/well_2;CLUB_NW_SMF_JF_3H,24,14,Needs work,
+club/wells/well_3;CLUB_NE_SMF_JF_5H,23,14,Needs work,
+club/wells/well_4;CLUB_NE_SMF_JF_7H,12,24,Needs work,
+club/wells/well_5;CLUB_SE_SMF_JF_8H,14,24,Needs work,
+Pad Total (club):263
+coad/pad;COAD_OXF_GR,58,23,Needs work,
+coad/wells/well_1;COAD_OXF_GR_2H,43,8,Needs work,
+coad/wells/well_2;COAD_OXF_GR_4H,38,12,Needs work,
+coad/wells/well_3;COAD_OXF_GR_6H,38,12,Needs work,
+coad/wells/well_4;COAD_OXF_GR_8H,38,12,Needs work,
+Pad Total (coad):302
+coffield/pad;COFFIELD_RCH_BL,50,5,Needs work,
+coffield/wells/well_1;COFFIELD_W_RCH_BL_2H,26,1,Close,
+coffield/wells/well_2;COFFIELD_S_RCH_BL_4H-A,23,4,Close,
+coffield/wells/well_3;COFFIELD_E_RCH_BL_6H,23,4,Close,
+coffield/wells/well_4;COFFIELD_SE_RCH_BL_8H,24,3,Close,
+Pad Total (coffield):187
+colaianni/pad;COLAIANNI_MTP_JF,41,4,Close,
+colaianni/wells/well_1;COLAIANNI_SW_MTP_JF_2H,35,2,Close,
+colaianni/wells/well_2;COLAIANNI_SW_MTP_JF_4H,24,13,Needs work,
+colaianni/wells/well_3;COLAIANNI_SE_MTP_JF_6H,20,17,Needs work,
+Pad Total (colaianni):174
+coleman/pad;COLEMAN_RCH_BL,58,8,Needs work,
+coleman/wells/well_1;COLEMAN_RCH_BL_1H,32,10,Needs work,
+coleman/wells/well_2;ROSS_SE_RCH_BL_11H,30,11,Needs work,
+Pad Total (coleman):159
+collectors/pad;COLLECTORS_NTG_HR,49,15,Needs work,
+collectors/wells/well_1;COLLECTORS_S_NTG_HR_4H,32,7,Needs work,
+collectors/wells/well_2;COLLECTORS_S_NTG_HR_2H,23,15,Needs work,
+collectors/wells/well_3;CORDER_E_NTG_HR_8H,23,14,Needs work,
+collectors/wells/well_4;COLLECTORS_S_NTG_HR_6H,24,14,Needs work,
+collectors/wells/well_5;COLLECTORS_S_NTG_HR_8H-A,24,15,Needs work,
+Pad Total (collectors):279
+collins/pad;COLLINS_WYN_JF,45,7,Needs work,
+collins/wells/well_1;COLLINS_WYN_JF_2H,33,4,Close,
+collins/wells/well_2;COLLINS_WYN_JF_4H,28,9,Needs work,
+collins/wells/well_3;COLLINS_WYN_JF_6H,28,9,Needs work,
+Pad Total (collins):181
+connie_jo/pad;CONNIE_JO_CLR_BL,52,0,Perfect!,
+connie_jo/wells/well_1;CONNIE_JO_W_CLR_BL_1H,33,2,Close,
+connie_jo/wells/well_2;CONNIE_JO_E_CLR_BL_3H,25,10,Needs work,
+connie_jo/wells/well_3;CONNIE_JO_N_CLR_BL_5H,28,7,Needs work,
+Pad Total (connie_jo):175
+conotton/pad;RH_CONOTTON_MRF_HR,52,12,Needs work,
+conotton/wells/well_1;RH_CONOTTON_E_MRF_HR_10H,33,5,Needs work,
+conotton/wells/well_2;RH_CONOTTON_E_MRF_HR_8H,32,5,Needs work,
+conotton/wells/well_3;RH_CONOTTON_E_MRF_HR_6H,29,6,Needs work,
+conotton/wells/well_4;RH_CONOTTON_E_MRF_HR_4H,31,6,Needs work,
+conotton/wells/well_5;RH_CONOTTON_W_MRF_HR_2H,24,14,Needs work,
+Pad Total (conotton):274
+cook/pad;COOK_RCH_BL,37,3,Close,
+cook/wells/well_1;COOK_UNIT_2H,15,8,Needs work,
+cook/wells/well_2;COOK_S_RCH_BL_4H,47,7,Needs work,
+cook/wells/well_3;COOK_UNIT_RCH_BL_6H,47,7,Needs work,
+Pad Total (cook):171
+corder/pad;CORDER_NTG_HR,52,8,Needs work,
+corder/wells/well_1;CORDER_W_NTG_HR_2H,31,7,Needs work,
+corder/wells/well_2;CORDER_W_NTG_HR_4H,23,15,Needs work,
+corder/wells/well_3;CORDER_E_NTG_HR_6H-A,24,14,Needs work,
+Pad Total (corder):189
+cravat/pad;CRAVAT_COAL_SHC_HR,94,10,Needs work,
+cravat/wells/well_1;CRAVAT_COAL_SHC_HR_2H,42,26,Needs work,
+cravat/wells/well_10;CRAVAT_COAL_N_SHC_HR_9H-A,28,4,Close,
+cravat/wells/well_2;CRAVAT_COAL_SHC_HR_4H,30,6,Needs work,
+cravat/wells/well_3;CRAVAT_COAL_SHC_HR_6H,32,6,Needs work,
+cravat/wells/well_4;CRAVAT_COAL_SHC_HR_8H,32,6,Needs work,
+cravat/wells/well_5;CRAVAT_COAL_W_SHC_HR_1H,30,6,Needs work,
+cravat/wells/well_6;CRAVAT_COAL_W_SHC_HR_3H,28,7,Needs work,
+cravat/wells/well_7;CRAVAT_COAL_NW_SHC_HR_5H,29,7,Needs work,
+cravat/wells/well_8;CRAVAT_COAL_N_SHC_HR_7H,28,7,Needs work,
+cravat/wells/well_9;CRAVAT_COAL_NE_SHC_HR_11H,28,4,Close,
+Pad Total (cravat):551
+cravat_north/pad;CRAVAT_N_WHL_BL,64,15,Needs work,
+cravat_north/wells/well_1;CRAVAT_S_WHL_BL_4H,33,7,Needs work,
+cravat_north/wells/well_2;CRAVAT_S_WHL_BL_2H,32,8,Needs work,
+cravat_north/wells/well_3;CRAVAT_N_WHL_BL_1H,32,8,Needs work,
+cravat_north/wells/well_4;CRAVAT_N_WHL_BL_3H-A,32,8,Needs work,
+Pad Total (cravat_north):259
+creamer/pad;CREAMER_WRN_JF,32,7,Needs work,
+creamer/wells/well_1;CREAMER_25-5-2_3H,19,3,Close,
+Pad Total (creamer):62
+cricket/pad;CRICKET_SHC_HR,59,0,Perfect!,
+cricket/wells/well_1;CRICKET_E_SHC_HR_5H,41,7,Needs work,
+cricket/wells/well_2;CRICKET_SHC_HR_3H,36,5,Needs work,
+cricket/wells/well_3;CRICKET_W_SHC_HR_1H,37,5,Needs work,
+Pad Total (cricket):205
+cross_creek/pad;CROSS_CREEK_A_CRC_JF_H,0,29,Unable to Process!
+cross_creek/wells/well_1;NAC_4H-20,0,2,Unable to Process!
+cross_creek/wells/well_2;NAC_3H-20,0,2,Unable to Process!
+cross_creek/wells/well_3;CROSS_CREEK_A_5H-20,0,2,Unable to Process!
+cross_creek/wells/well_4;CROSS_CREEK_A_SW_CRC_JF_2H,0,0,Unable to Process!
+cross_creek/wells/well_5;CROSS_CREEK_A_S_CRC_JF_4H,0,0,Unable to Process!
+cross_creek/wells/well_6;CROSS_CREEK_A_SE_CRC_JF_6H,0,0,Unable to Process!
+Pad Total (cross_creek):0
+crowell/pad;CROWELL_WYN_JF,43,8,Needs work,
+crowell/wells/well_1;CROWELL_W_WYN_JF_2H,34,15,Needs work,
+crowell/wells/well_2;CROWELL_S_WYN_JF_4H,30,19,Needs work,
+crowell/wells/well_3;CROWELL_WYN_JF_6H,27,17,Needs work,
+crowell/wells/well_4;CROWELL_E_WYN_JF_8H,32,15,Needs work,
+Pad Total (crowell):276
+crowie/pad;CROWIE_RCH_BL,63,3,Close,
+crowie/wells/well_1;COLEMAN_RCH_BL_4H,31,5,Needs work,
+crowie/wells/well_2;CROWIE_RCH_BL_3H,22,15,Needs work,
+crowie/wells/well_3;COLEMAN_RCH_BL_2H,24,13,Needs work,
+crowie/wells/well_4;CROWIE_RCH_BL_1H,24,13,Needs work,
+Pad Total (crowie):237
+cypress/pad;CYPRESS_CDZ_HR,167,0,Unable to Process!
+cypress/wells/well_1;CYPRESS_NW_CDZ_HR_1H,51,0,Unable to Process!
+cypress/wells/well_2;CYPRESS_N_CDZ_HR_3H,49,0,Unable to Process!
+cypress/wells/well_3;CYPRESS_NE_CDZ_HR_5H,49,0,Unable to Process!
+cypress/wells/well_4;CYPRESS_E_CDZ_HR_7H,50,0,Unable to Process!
+Pad Total (cypress):366
+dalrymple/pad;DALRYMPLE_SMF_JF,57,5,Needs work,
+dalrymple/wells/well_1;DALRYMPLE_SMF_JF_2H,34,7,Needs work,
+dalrymple/wells/well_2;DALRYMPLE_SMF_JF_4H,29,12,Needs work,
+Pad Total (dalrymple):157
+darrow/pad;DARROW_MTP_JF,45,0,Perfect!,
+darrow/wells/well_1;DARROW_W_MTP_JF_1H,34,4,Close,
+darrow/wells/well_2;DARROW_S_MTP_JF_2H,28,11,Needs work,
+darrow/wells/well_3;DARROW_E_MTP_JF_3H,22,15,Needs work,
+darrow/wells/well_4;DARROW_S_MTP_JF_4H,23,16,Needs work,
+darrow/wells/well_5;CLUB_SE_SMF_JF_9H,25,15,Needs work,
+Pad Total (darrow):268
+dawson/pad;DAWSON_SMF_JF,60,4,Close,
+dawson/wells/well_1;DAWSON_SMF_JF_2H,30,4,Close,
+dawson/wells/well_2;DAWSON_SMF_JF_4H,24,10,Needs work,
+dawson/wells/well_3;OMAITS_SMF_JF_2H-A,25,9,Needs work,
+dawson/wells/well_4;DAWSON_N_SMF_JF_1H,41,8,Needs work,
+dawson/wells/well_5;DAWSON_N_SMF_JF_3H,44,8,Needs work,
+Pad Total (dawson):292
+dickson/pad;DICKSON_CRC_JF,1,164,Unable to Process!
+dickson/wells/well_1;DICKSON_CRC_JF_1H,0,49,Unable to Process!
+dickson/wells/well_2;DICKSON_CRC_JF_3H,0,49,Unable to Process!
+dickson/wells/well_3;BATES_S_CRC_JF_5H,0,48,Unable to Process!
+dickson/wells/well_4;BATES_S_CRC_JF_7H,0,0,Unable to Process!
+dickson/wells/well_5;DICKSON_SW_CRC_JF_2H,0,0,Unable to Process!
+dickson/wells/well_6;DICKSON_S_CRC_JF_4H,0,0,Unable to Process!
+dickson/wells/well_7;DICKSON_SE_CRC_JF_6H,0,0,Unable to Process!
+dickson/wells/well_8;DICKSON_E_CRC_JF_8H,0,0,Unable to Process!
+Pad Total (dickson):1
+donna/pad;DONNA_LND_GR,151,80,Needs work,
+donna/wells/well_1;DONNA_E_LND_GR_8H,10,71,Needs work,
+donna/wells/well_10;DONNA_NE_LND_GR_9H,50,0,Unable to Process!
+donna/wells/well_2;DONNA_W_LND_GR_2H,29,8,Needs work,
+donna/wells/well_3;DONNA_E_LND_GR_10H,16,20,Needs work,
+donna/wells/well_4;DONNA_W_LND_GR_6H,1,35,Needs work,
+donna/wells/well_5;DONNA_W_LND_GR_4H,24,13,Needs work,
+donna/wells/well_6;DONNA_NW_LND_GR_1H,49,0,Unable to Process!
+donna/wells/well_7;DONNA_NW_LND_GR_3H,49,0,Unable to Process!
+donna/wells/well_8;DONNA_N_LND_GR_5H,49,0,Unable to Process!
+donna/wells/well_9;DONNA_N_LND_GR_7H,50,0,Unable to Process!
+Pad Total (donna):735
+doyen/pad;DOYEN_WEL_JF,40,4,Close,
+doyen/wells/well_1;DOYEN_NW_WEL_JF_1H,31,6,Needs work,
+doyen/wells/well_2;DOYEN_SW_WEL_JF_2H,27,15,Needs work,
+doyen/wells/well_3;DOYEN_NE_WEL_JF_3H,26,10,Needs work,
+doyen/wells/well_4;DOYEN_SE_WEL_JF_4H,27,13,Needs work,
+Pad Total (doyen):223
+duke/pad;DUKE_SHC_HR,50,0,Perfect!,
+duke/wells/well_1;DUKE_W_SHC_HR_1H,37,4,Close,
+duke/wells/well_2;DUKE_SHC_HR_3H,36,5,Needs work,
+duke/wells/well_3;DUKE_E_SHC_HR_5H,35,5,Needs work,
+Pad Total (duke):187
+dutton/pad;CHC_DUTTON_WHL_BL,45,23,Needs work,
+dutton/wells/well_1;CHC_DUTTON_WHL_BL_4H,36,4,Close,
+dutton/wells/well_2;CHC_DUTTON_WHL_BL_5H,36,4,Close,
+dutton/wells/well_3;CHC_DUTTON_WHL_BL_11H,27,13,Needs work,
+dutton/wells/well_4;CHC_DUTTON_WHL_BL_9H,12,28,Needs work,
+dutton/wells/well_5;CHC_DUTTON_WHL_BL_6H,28,12,Needs work,
+dutton/wells/well_6;CAPSTONE_HOLDINGS_2H-9,30,5,Needs work,
+dutton/wells/well_7;CAPSTONE_HOLDINGS_3H-9,24,10,Needs work,
+dutton/wells/well_8;WHEELING_A_5H-9,26,26,Needs work,
+Pad Total (dutton):424
+dwayne/pad;DWAYNE_GRN_HR,49,2,Close,
+dwayne/wells/well_1;DWAYNE_GRN_HR_4H,26,6,Needs work,
+dwayne/wells/well_2;DWAYNE_W_GRN_HR_2H,27,6,Needs work,
+dwayne/wells/well_3;DWAYNE_E_GRN_HR_6H,27,6,Needs work,
+Pad Total (dwayne):164
+edington/pad;EDINGTON_ATH_HR,36,13,Needs work,
+edington/wells/well_1;EDINGTON_W_ATH_HR_2H,37,3,Close,
+edington/wells/well_2;EDINGTON_W_ATH_HR_4H,27,15,Needs work,
+edington/wells/well_3;EDINGTON_E_ATH_HR_6H,20,21,Needs work,
+Pad Total (edington):187
+eggleston/pad;EGGLESTON_WLS_GR,71,29,Needs work,
+eggleston/wells/well_1;EGGLESTON_WLS_GR_2H,38,22,Needs work,
+eggleston/wells/well_2;EGGLESTON_WLS_GR_4H,30,26,Needs work,
+Pad Total (eggleston):237
+elite/pad;ELITE_MTP_JF,47,10,Needs work,
+elite/wells/well_1;ELITE_W_MTP_JF_1H,34,5,Needs work,
+elite/wells/well_2;ELITE_W_MTP_JF_3H,22,17,Needs work,
+elite/wells/well_3;ELITE_E_MTP_JF_5H,20,19,Needs work,
+Pad Total (elite):193
+ellen/pad;ELLEN_MRF_HR,58,5,Needs work,
+ellen/wells/well_1;ELLEN_S_MRF_HR_6H,36,2,Close,
+ellen/wells/well_2;ELLEN_W_MRF_HR_2H,33,5,Needs work,
+ellen/wells/well_3;ELLEN_E_MRF_HR_8H,31,7,Needs work,
+Pad Total (ellen):195
+emersyn/pad;EMERSYN_N_RCH_BL,68,5,Needs work,
+emersyn/wells/well_1;EMERSYN_W_RCH_BL_1H,30,10,Needs work,
+emersyn/wells/well_2;EMERSYN_E_RCH_BL_3H,29,11,Needs work,
+Pad Total (emersyn):163
+eureka/pad;EUREKA_SMT_BL,61,8,Needs work,
+eureka/wells/well_1;SMITH_A_1H-12,27,11,Needs work,
+eureka/wells/well_2;EUREKA_SMT_BL_6H-A,23,15,Needs work,
+eureka/wells/well_3;EUREKA_SMT_BL_2H-A,22,15,Needs work,
+Pad Total (eureka):197
+faldowski/pad;FALDOWSKI_SMF_JF,38,0,Perfect!,
+faldowski/wells/well_1;FALDOWSKI_SE_SMF_JF_6H,34,4,Close,
+faldowski/wells/well_2;FALDOWSKI_SE_SMF_JF_4H,28,11,Needs work,
+faldowski/wells/well_3;FALDOWSKI_N_SMF_JF_1H,22,17,Needs work,
+faldowski/wells/well_4;FALDOWSKI_SW_SMF_JF_2H,23,16,Needs work,
+Pad Total (faldowski):213
+fauna/pad;FAUNA_WEL_JF,98,22,Needs work,
+fauna/wells/well_1;FAUNA_W_WEL_JF_1H,35,12,Needs work,
+fauna/wells/well_2;FAUNA_E_WEL_JF_3H,31,17,Needs work,
+fauna/wells/well_3;FAUNA_MC_WEL_JF_M5H-A,24,18,Needs work,
+Pad Total (fauna):272
+ferguson/pad;FERGUSON_SMF_JF,50,4,Close,
+ferguson/wells/well_1;FERGUSON_NE_SMF_JF_5H,35,10,Needs work,
+ferguson/wells/well_2;FERGUSON_NE_SMF_JF_7H,30,14,Needs work,
+Pad Total (ferguson):156
+fleagane/pad;FLEAGANE_PLT_BL,45,14,Needs work,
+fleagane/wells/well_1;FLEAGANE_SE_PLT_BL_8H,33,4,Close,
+fleagane/wells/well_2;FLEAGANE_SE_PLT_BL_6H,31,7,Needs work,
+fleagane/wells/well_3;FLEAGANE_SW_PLT_BL_4H,33,5,Needs work,
+fleagane/wells/well_4;FLEAGANE_SW_PLT_BL_2H,31,7,Needs work,
+fleagane/wells/well_5;FLEAGANE_NE_PLT_BL_7H,19,29,Needs work,
+fleagane/wells/well_6;FLEAGANE_NE_PLT_BL_5H,19,30,Needs work,
+fleagane/wells/well_7;FLEAGANE_N_PLT_BL_3H,22,26,Needs work,
+fleagane/wells/well_8;FLEAGANE_NW_PLT_BL_1H,17,32,Needs work,
+Pad Total (fleagane):444
+flowback/pad;None,0,0,Unable to Process!
+Pad Total (flowback):0
+flushing_a/pad;ANCHOR_FLS_BL,36,8,Needs work,
+flushing_a/wells/well_1;ANCHOR_FLS_BL_1H,18,0,Perfect!,
+flushing_a/wells/well_2;ANCHOR_FLS_BL_3H,19,0,Perfect!,
+flushing_a/wells/well_3;ANCHOR_FLS_BL_5H,19,0,Perfect!,
+flushing_a/wells/well_4;ANCHOR_FLS_BL_7H,19,0,Perfect!,
+flushing_a/wells/well_5;ANCHOR_FLS_BL_9H,19,0,Perfect!,
+Pad Total (flushing_a):138
+gabriel/pad;GABRIEL_WEL_JF,53,15,Needs work,
+gabriel/wells/well_1;GABRIEL_SE_WEL_JF_4H,41,19,Needs work,
+gabriel/wells/well_2;GABRIEL_NE_WEL_JF_3H,23,27,Needs work,
+gabriel/wells/well_3;GABRIEL_SW_WEL_JF_2H,37,26,Needs work,
+gabriel/wells/well_4;GABRIEL_NW_WEL_JF_1H,34,16,Needs work,
+Pad Total (gabriel):321
+geno/pad;GENO_SMF_JF,48,0,Perfect!,
+geno/wells/well_1;GENO_W_SMF_JF_1H,36,2,Close,
+geno/wells/well_2;GENO_SMF_JF_3H,31,7,Needs work,
+geno/wells/well_3;GENO_E_SMF_JF_5H,33,14,Needs work,
+Pad Total (geno):189
+geoflo/pad;GEOFLO_WHL_BL,73,15,Needs work,
+geoflo/wells/well_1;GEOFLO_WHL_BL_2H,34,10,Needs work,
+geoflo/wells/well_2;GEOFLO_WHL_BL_4H,31,14,Needs work,
+Pad Total (geoflo):187
+gil/pad;GIL_LND_GR,105,12,Needs work,
+gil/wells/well_1;BLACK_RACER_W_LND_GR_9H,43,7,Needs work,
+gil/wells/well_2;GIL_NE_LND_GR_7H,41,17,Needs work,
+gil/wells/well_3;GIL_NE_LND_GR_5H,31,27,Needs work,
+gil/wells/well_4;GIL_NE_LND_GR_3H,32,18,Needs work,
+gil/wells/well_5;GIL_NW_LND_GR_1H,13,37,Needs work,
+Pad Total (gil):409
+gilcher/pad;GILCHER_LND_GR,41,0,Perfect!,
+gilcher/wells/well_1;GILCHER_N_LND_GR_1H,26,0,Perfect!,
+gilcher/wells/well_2;GILCHER_S_LND_GR_2H,21,5,Needs work,
+gilcher/wells/well_3;GILCHER_S_LND_GR_4H,17,9,Needs work,
+gilcher/wells/well_4;GILCHER_S_LND_GR_6H,17,9,Needs work,
+Pad Total (gilcher):169
+gingerich/pad;GINGERICH_LND_GR,40,1,Close,
+gingerich/wells/well_1;GINGERICH_S_LND_GR_6H,25,0,Perfect!,
+gingerich/wells/well_2;GINGERICH_S_LND_GR_4H,20,5,Needs work,
+gingerich/wells/well_3;GINGERICH_S_LND_GR_2H,16,9,Needs work,
+Pad Total (gingerich):134
+giusto/pad;GIUSTO_CRC_JF,52,8,Needs work,
+giusto/wells/well_1;HAMMACK_W_CRC_JF_8H,32,3,Close,
+giusto/wells/well_2;GIUSTO_E_CRC_JF_6H,30,14,Needs work,
+giusto/wells/well_3;GIUSTO_E_CRC_JF_4H,21,14,Needs work,
+giusto/wells/well_4;GIUSTO_W_CRC_JF_2H,10,24,Needs work,
+Pad Total (giusto):233
+gordon/pad;GORDON_CRC_JF,59,10,Needs work,
+gordon/wells/well_1;GORDON_NW_CRC_JF_1H,36,2,Close,
+gordon/wells/well_2;GORDON_N_CRC_JF_3H,30,7,Needs work,
+gordon/wells/well_3;GORDON_SW_CRC_JF_2H,30,7,Needs work,
+gordon/wells/well_4;GORDON_SE_CRC_JF_4H,30,7,Needs work,
+gordon/wells/well_5;GORDON_SE_CRC_JF_6H,31,6,Needs work,
+gordon/wells/well_6;POINTER_N_CRC_JF_9H,34,20,Needs work,
+gordon/wells/well_7;POINTER_N_CRC_JF_7H,30,27,Needs work,
+gordon/wells/well_8;POINTER_W_CRC_JF_5H,21,33,Needs work,
+Pad Total (gordon):470
+griswold/pad;GRISWOLD_WYN_JF,51,0,Perfect!,
+griswold/wells/well_1;GRISWOLD_SE_WYN_JF_8H,32,4,Close,
+griswold/wells/well_2;GRISWOLD_SE_WYN_JF_6H,30,7,Needs work,
+griswold/wells/well_3;GRISWOLD_S_WYN_JF_4H,32,7,Needs work,
+griswold/wells/well_4;GRISWOLD_SW_WYN_JF_2H,30,7,Needs work,
+Pad Total (griswold):220
+grywalski/pad;GRYWALSKI_MTP_JF,37,1,Close,
+grywalski/wells/well_1;GRYWALSKI_W_MTP_JF_1H,39,4,Close,
+grywalski/wells/well_2;GRYWALSKI_E_MTP_JF_3H,22,21,Needs work,
+Pad Total (grywalski):134
+hamilton/pad;RH_HAMILTON_MRF_HR,71,84,Needs work,
+hamilton/wells/well_1;RH_HAMILTON_N_MRF_HR_1H,60,12,Needs work,
+hamilton/wells/well_2;RH_HAMILTON_S_MRF_HR_2H,54,19,Needs work,
+hamilton/wells/well_3;RH_HAMILTON_N_MRF_HR_3H,53,19,Needs work,
+hamilton/wells/well_4;RH_HAMILTON_S_MRF_HR_4H,40,32,Needs work,
+hamilton/wells/well_5;RH_HAMILTON_N_MRF_HR_5H,37,39,Needs work,
+hamilton/wells/well_6;RH_HAMILTON_S_MRF_HR_6H,21,14,Needs work,
+hamilton/wells/well_7;RH_HAMILTON_N_MRF_HR_7H,22,14,Needs work,
+hamilton/wells/well_8;RH_HAMILTON_S_MRF_HR_8H,23,13,Needs work,
+hamilton/wells/well_9;RH_HAMILTON_S_MRF_HR_10H,21,14,Needs work,
+Pad Total (hamilton):738
+hammack/pad;HAMMACK_CRC_JF,54,2,Close,
+hammack/wells/well_1;HAMMACK_CRC_JF_2H,37,9,Needs work,
+hammack/wells/well_2;HAMMACK_E_CRC_JF_4H,38,12,Needs work,
+Pad Total (hammack):162
+harr/pad;HARR_MTP_JF,52,4,Close,
+harr/wells/well_1;HARR_W_MTP_JF_1H,33,3,Close,
+harr/wells/well_2;HARR_W_MTP_JF_3H,23,14,Needs work,
+harr/wells/well_3;HARR_E_MTP_JF_5H,23,14,Needs work,
+Pad Total (harr):185
+hastings/pad;HASTINGS_WHL_BL,34,12,Needs work,
+hastings/wells/well_1;HASTINGS_WHL_BL_1H,38,7,Needs work,
+hastings/wells/well_2;ECHO_S_ATH_HR_3H,20,30,Needs work,
+Pad Total (hastings):156
+heller/pad;HELLER,22,9,Needs work,
+heller/wells/well_1;HELLER_UNIT_A_2H,19,3,Close,
+heller/wells/well_2;HELLER_UNIT_B_6H,19,3,Close,
+Pad Total (heller):75
+henderson/pad;HENDERSON_RCH_BL,65,6,Needs work,
+henderson/wells/well_1;HENDERSON_E_RCH_BL_6H,29,8,Needs work,
+henderson/wells/well_2;HENDERSON_W_RCH_BL_4H,19,16,Needs work,
+henderson/wells/well_3;HENDERSON_W_RCH_BL_2H,19,16,Needs work,
+Pad Total (henderson):194
+henry/pad;HENRY_LND_GR,61,0,Perfect!,
+henry/wells/well_1;HENRY_LND_GR_6H,45,15,Needs work,
+henry/wells/well_2;HENRY_LND_GR_4H,37,23,Needs work,
+henry/wells/well_3;HENRY_LND_GR_2H,29,35,Needs work,
+Pad Total (henry):281
+hoop/pad;HOOP_LND_GR,97,5,Needs work,
+hoop/wells/well_1;WAGLER_LND_GR_6H,39,15,Needs work,
+hoop/wells/well_2;HOOP_LND_GR_1H,33,21,Needs work,
+hoop/wells/well_3;HOOP_LND_GR_2H,31,23,Needs work,
+hoop/wells/well_4;HOOP_LND_GR_3H,31,23,Needs work,
+hoop/wells/well_5;HOOP_LND_GR_4H,31,23,Needs work,
+hoop/wells/well_6;HOOP_LND_GR_5H,13,42,Needs work,
+Pad Total (hoop):493
+howell/pad;HOWELL_33_SMF_JF,74,53,Needs work,
+howell/wells/well_1;HOWELL_33_NE_SMF_JF_7H,18,5,Needs work,
+howell/wells/well_2;HOWELL_33_NE_SMF_JF_5H,22,5,Needs work,
+howell/wells/well_3;HOWELL_33_NW_SMF_JF_3H,22,5,Needs work,
+howell/wells/well_4;HOWELL_33_NW_SMF_JF_1H,23,4,Close,
+howell/wells/well_5;HOWELL_33_SE_SMF_JF_10H,29,4,Close,
+howell/wells/well_6;HOWELL_33_SE_SMF_JF_8H,29,5,Needs work,
+howell/wells/well_7;HOWELL_33_S_SMF_JF_6H,29,5,Needs work,
+howell/wells/well_8;HOWELL_33_SW_SMF_JF_4H,27,5,Needs work,
+howell/wells/well_9;HOWELL_33_SW_SMF_JF_2H,27,5,Needs work,
+Pad Total (howell):451
+j_bar_j/pad;J_BAR_J_OXF_GR,60,20,Needs work,
+j_bar_j/wells/well_1;J_BAR_J_OXF_GR_2H,43,8,Needs work,
+j_bar_j/wells/well_2;J_BAR_J_OXF_GR_4H,38,12,Needs work,
+j_bar_j/wells/well_3;J_BAR_J_OXF_GR_6H,38,12,Needs work,
+Pad Total (j_bar_j):246
+jack_hamilton/pad;JACK_HAMILTON_SMF_JF,43,13,Needs work,
+jack_hamilton/wells/well_1;JACK_HAMILTON_S_SMF_JF_2H,34,3,Close,
+jack_hamilton/wells/well_2;JACK_HAMILTON_S_SMF_JF_4H,26,12,Needs work,
+jack_hamilton/wells/well_3;JACK_HAMILTON_E_SMF_JF_5H,25,12,Needs work,
+jack_hamilton/wells/well_4;JACK_HAMILTON_S_SMF_JF_6H,10,26,Needs work,
+jack_hamilton/wells/well_5;JACK_HAMILTON_E_SMF_JF_7H,15,25,Needs work,
+Pad Total (jack_hamilton):275
+jackalope/pad;JACKALOPE_WSG_GR,93,36,Needs work,
+jackalope/wells/well_1;JACKALOPE_SW_WSG_GR_2H,18,30,Needs work,
+jackalope/wells/well_2;JACKALOPE_SE_WSG_GR_4H,10,37,Needs work,
+jackalope/wells/well_3;JACKALOPE_SE_WSG_GR_6H,19,29,Needs work,
+jackalope/wells/well_4;JACKALOPE_NW_WSG_GR_1H,10,36,Needs work,
+jackalope/wells/well_5;JACKALOPE_NW_WSG_GR_3H,10,36,Needs work,
+jackalope/wells/well_6;JACKALOPE_NE_WSG_GR_5H,31,15,Needs work,
+Pad Total (jackalope):440
+jade/pad;JADE_SMF_JF,58,1,Close,
+jade/wells/well_1;JADE_N_SMF_JF_1H,35,4,Close,
+jade/wells/well_2;JADE_N_SMF_JF_3H,25,15,Needs work,
+Pad Total (jade):150
+jeffco/pad;JEFFCO_GRN_HR,62,7,Needs work,
+jeffco/wells/well_1;JEFFCO_NE_GRN_HR_7H,32,13,Needs work,
+jeffco/wells/well_2;JEFFCO_NE_GRN_HR_5H,22,24,Needs work,
+jeffco/wells/well_3;JEFFCO_SE_GRN_HR_4H,16,30,Needs work,
+jeffco/wells/well_4;JEFFCO_N_GRN_HR_3H,17,29,Needs work,
+jeffco/wells/well_5;JEFFCO_SW_GRN_HR_2H,16,30,Needs work,
+jeffco/wells/well_6;JEFFCO_NW_GRN_HR_1H,17,33,Needs work,
+Pad Total (jeffco):378
+jennings/pad;JENNINGS_WLS_GR,57,14,Needs work,
+jennings/wells/well_1;JENNINGS_W_WLS_GR_2H,39,2,Close,
+jennings/wells/well_2;JENNINGS_W_WLS_GR_4H,36,3,Close,
+jennings/wells/well_3;JENNINGS_E_WLS_GR_6H,34,4,Close,
+jennings/wells/well_4;JENNINGS_E_WLS_GR_8H,34,4,Close,
+Pad Total (jennings):247
+jones/pad;JONES_NTG_HR,64,45,Needs work,
+jones/wells/well_1;JONES_N_NTG_HR_1H,37,18,Needs work,
+jones/wells/well_2;JONES_N_NTG_HR_3H,38,19,Needs work,
+jones/wells/well_3;JONES_N_NTG_HR_5H,32,20,Needs work,
+jones/wells/well_4;JONES_N_NTG_HR_7H,33,24,Needs work,
+jones/wells/well_5;JONES_N_NTG_HR_9H,29,28,Needs work,
+Pad Total (jones):437
+kaldor/pad;KALDOR,27,18,Needs work,
+kaldor/wells/well_1;KALDOR_1H,19,3,Close,
+kaldor/wells/well_2;KALDOR_2H,19,3,Close,
+kaldor/wells/well_3;KALDOR_UNIT_B_8H,18,4,Close,
+Pad Total (kaldor):111
+kaseta/pad;KASETA,0,68,Failed!,
+kaseta/wells/well_1;KASETA_UNIT_9H,0,22,Failed!,
+kaseta/wells/well_2;KASETA_UNIT_7H,0,22,Failed!,
+kaseta/wells/well_3;KASETA_UNIT_B_2H,0,22,Failed!,
+kaseta/wells/well_4;KASETA_UNIT_1H,0,22,Failed!,
+kaseta/wells/well_5;KASETA_UNIT_3H,0,22,Failed!,
+kaseta/wells/well_6;KASETA_UNIT_B_6H,0,25,Failed!,
+kaseta/wells/well_7;KASETA_UNIT_B_8H,0,22,Failed!,
+Pad Total (kaseta):225
+kelpie/pad;KELPIE_WEL_JF,52,26,Needs work,
+kelpie/wells/well_1;KELPIE_SE_WEL_JF_4H,38,3,Close,
+kelpie/wells/well_2;KELPIE_NE_WEL_JF_3H,36,5,Needs work,
+kelpie/wells/well_3;KELPIE_SW_WEL_JF_2H,37,3,Close,
+kelpie/wells/well_4;KELPIE_NW_WEL_JF_1H,37,3,Close,
+Pad Total (kelpie):260
+kemper/pad;KEMPER,20,11,Needs work,
+kemper/wells/well_1;KEMPER_B_UNIT_8H,17,2,Close,
+kemper/wells/well_2;KEMPER_A_UNIT_1H,14,2,Close,
+Pad Total (kemper):66
+kirkwood_a/pad;ALBATROSS_KKW_BL,37,8,Needs work,
+kirkwood_a/wells/well_1;ALBATROSS_KKW_BL_2H,19,0,Perfect!,
+kirkwood_a/wells/well_2;ALBATROSS_KKW_BL_4H,19,0,Perfect!,
+kirkwood_a/wells/well_3;ALBATROSS_KKW_BL_6H,19,0,Perfect!,
+kirkwood_a/wells/well_4;ALBATROSS_KKW_BL_8H,19,0,Perfect!,
+Pad Total (kirkwood_a):121
+krinke/pad;KRINKE_MTP_JF,54,2,Close,
+krinke/wells/well_1;KRINKE_MTP_JF_2H,15,21,Needs work,
+krinke/wells/well_2;KRINKE_MTP_JF_4H,14,26,Needs work,
+krinke/wells/well_3;KRINKE_MTP_JF_6H,24,16,Needs work,
+krinke/wells/well_4;KRINKE_NW_MTP_JF_1H,56,0,Unable to Process!
+krinke/wells/well_5;KRINKE_NW_MTP_JF_3H,57,0,Unable to Process!
+krinke/wells/well_6;KRINKE_NE_MTP_JF_5H,56,0,Unable to Process!
+Pad Total (krinke):356
+krnyaich/pad;KRNYAICH,13,30,Needs work,
+krnyaich/wells/well_1;KRNYAICH_UNIT_C_4H,19,3,Close,
+krnyaich/wells/well_2;KRNYAICH_UNIT_A_6H,19,3,Close,
+krnyaich/wells/well_3;KRNYAICH_UNIT_B_5H,18,4,Close,
+krnyaich/wells/well_4;KRNYAICH_UNIT_A_8H,22,0,Unable to Process!
+krnyaich/wells/well_5;KRNYAICH_UNIT_C_2H,0,22,Failed!,
+krnyaich/wells/well_6;KRNYAICH_UNIT_B_3H,0,22,Failed!,
+krnyaich/wells/well_7;KRNYAICH_UNIT_B_1H,22,0,Unable to Process!
+Pad Total (krnyaich):197
+kroby/pad;KROBY_MDS_GR,71,27,Needs work,
+kroby/wells/well_1;KROBY_NE_MDS_GR_7H,36,12,Needs work,
+kroby/wells/well_2;KROBY_NE_MDS_GR_5H,30,19,Needs work,
+kroby/wells/well_3;KROBY_NW_MDS_GR_3H,29,19,Needs work,
+kroby/wells/well_4;KROBY_NW_MDS_GR_1H,30,18,Needs work,
+Pad Total (kroby):331
+kungle_a/pad;KUNGLE_A_N_YRK_BL,49,8,Needs work,
+kungle_a/wells/well_1;KUNGLE_B_N_YRK_BL_3H,13,26,Needs work,
+kungle_a/wells/well_2;KUNGLE_A_N_YRK_BL_1H,13,24,Needs work,
+Pad Total (kungle_a):143
+kungle_b/pad;KUNGLE_B_N_YRK_BL,50,4,Close,
+kungle_b/wells/well_1;KUNGLE_C_N_YRK_BL_9H,31,3,Close,
+kungle_b/wells/well_2;KUNGLE_C_N_YRK_BL_7H,23,15,Needs work,
+kungle_b/wells/well_3;KUNGLE_B_N_YRK_BL_5H-A,23,15,Needs work,
+Pad Total (kungle_b):179
+kurth/pad;KURTH_RCH_BL,46,2,Close,
+kurth/wells/well_1;KURTH_UNIT_D_5H,8,17,Needs work,
+kurth/wells/well_2;KURTH_UNIT_C_6H,17,7,Needs work,
+kurth/wells/well_3;KURTH_UNIT_A_4H,8,16,Needs work,
+kurth/wells/well_4;KURTH_UNIT_B_3H,18,7,Needs work,
+kurth/wells/well_5;KURTH_UNIT_C_RCH_BL_1H,14,21,Needs work,
+kurth/wells/well_6;KURTH_UNIT_D_RCH_BL_2H,14,21,Needs work,
+kurth/wells/well_7;KURTH_UNIT_A_RCH_BL_7H,14,21,Needs work,
+Pad Total (kurth):251
+lake/pad;LAKE_LND_GR,65,20,Needs work,
+lake/wells/well_1;WAGLER_LND_GR_3H,25,28,Needs work,
+lake/wells/well_2;WAGLER_LND_GR_5H,33,20,Needs work,
+lake/wells/well_3;LAKE_EAST_LND_GR_6H,31,22,Needs work,
+lake/wells/well_4;LAKE_LND_GR_4H,31,22,Needs work,
+lake/wells/well_5;LAKE_WEST_LND_GR_2H,31,22,Needs work,
+Pad Total (lake):375
+lavada/pad;LAVADA_RCH_GR,56,14,Needs work,
+lavada/wells/well_1;LAVADA_RCH_GR_2H,37,1,Close,
+lavada/wells/well_2;LAVADA_RCH_GR_4H,32,7,Needs work,
+Pad Total (lavada):157
+lawson/pad;LAWSON_LND_GR,64,28,Needs work,
+lawson/wells/well_1;LAWSON_LND_GR_2H,43,6,Needs work,
+lawson/wells/well_2;LAWSON_LND_GR_4H,43,6,Needs work,
+lawson/wells/well_3;LAWSON_LND_GR_6H,43,6,Needs work,
+Pad Total (lawson):254
+lee/pad;LEE_CLR_BL,49,21,Needs work,
+lee/wells/well_1;THEAKER_W_CLR_BL_1H,21,1,Close,
+lee/wells/well_2;LEE_CLR_BL_2H,21,2,Close,
+lee/wells/well_3;THEAKER_E_CLR_BL_3H,20,1,Close,
+lee/wells/well_4;LEE_CLR_BL_4H,16,12,Needs work,
+lee/wells/well_5;THEAKER_E_CLR_BL_5H,16,13,Needs work,
+lee/wells/well_6;LEE_CLR_BL_6H,13,11,Needs work,
+Pad Total (lee):247
+liggett/pad;LIGGETT_ATH_HR,162,0,Unable to Process!
+liggett/wells/well_1;LIGGETT_NW_ATH_HR_1H,51,0,Unable to Process!
+liggett/wells/well_2;LIGGETT_N_ATH_HR_3H,49,0,Unable to Process!
+liggett/wells/well_3;LIGGETT_NE_ATH_HR_5H,49,0,Unable to Process!
+Pad Total (liggett):311
+lincoln/pad;LINCOLN_MDS_GR,51,33,Needs work,
+lincoln/wells/well_1;LINCOLN_SE_MDS_GR_8H,37,2,Close,
+lincoln/wells/well_2;LINCOLN_S_MDS_GR_6H,35,7,Needs work,
+lincoln/wells/well_3;LINCOLN_SW_MDS_GR_4H,35,7,Needs work,
+lincoln/wells/well_4;LINCOLN_SW_MDS_GR_2H,34,7,Needs work,
+Pad Total (lincoln):268
+lodge/pad;LODGE_WSG_GR,225,0,Unable to Process!
+lodge/wells/well_1;LODGE_NE_WSG_GR_7H,47,0,Unable to Process!
+lodge/wells/well_2;LODGE_NE_WSG_GR_5H,45,0,Unable to Process!
+lodge/wells/well_3;LODGE_NW_WSG_GR_3H,45,0,Unable to Process!
+lodge/wells/well_4;LODGE_NW_WSG_GR_1H,46,0,Unable to Process!
+Pad Total (lodge):408
+lori/pad;LORI_SMF_JF,55,0,Perfect!,
+lori/wells/well_1;LORI_NW_SMF_JF_1H,34,4,Close,
+lori/wells/well_2;LORI_SW_SMF_JF_2H,33,11,Needs work,
+lori/wells/well_3;LORI_SW_SMF_JF_4H,22,17,Needs work,
+lori/wells/well_4;LORI_SE_SMF_JF_6H,31,16,Needs work,
+lori/wells/well_5;LORI_SE_SMF_JF_8H,30,17,Needs work,
+lori/wells/well_6;LORI_NE_SMF_JF_3H,10,31,Needs work,
+lori/wells/well_7;LORI_NE_SMF_JF_5H,10,32,Needs work,
+Pad Total (lori):395
+lorraine/pad;LORRAINE_CLR_BL,51,2,Close,
+lorraine/wells/well_1;LORRAINE_CLR_BL_2H,32,7,Needs work,
+lorraine/wells/well_2;EARLEY-ROSE_CLR_BL_10H,27,12,Needs work,
+lorraine/wells/well_3;LORRAINE_CLR_BL_4H,22,14,Needs work,
+lorraine/wells/well_4;LORRAINE_CLR_BL_6H,12,24,Needs work,
+lorraine/wells/well_5;EARLEY-ROSE_CLR_BL_8H,12,24,Needs work,
+Pad Total (lorraine):266
+lude/pad;RICHLAND-LUDE_B_RCH_BL_H,0,2,Failed!,
+lude/wells/well_1;LUDE_1H-34,0,2,Unable to Process!
+lude/wells/well_2;RICHLAND_B_2H-34,0,2,Unable to Process!
+Pad Total (lude):2
+maldon/pad;MALDON_WRN_BL,74,12,Needs work,
+maldon/wells/well_1;MALDON_E_WRN_BL_5H,45,1,Close,
+maldon/wells/well_2;MALDON_N_WRN_BL_3H,37,9,Needs work,
+maldon/wells/well_3;MALDON_W_WRN_BL_1H,29,21,Needs work,
+Pad Total (maldon):247
+marquard/pad;MARQUARD_MTP_JF,45,10,Needs work,
+marquard/wells/well_1;MARQUARD_W_MTP_JF_1H,35,2,Close,
+marquard/wells/well_2;MARQUARD_W_MTP_JF_3H,30,7,Needs work,
+Pad Total (marquard):142
+matador/pad;MATADOR_MRN_NB_30,63,4,Close,
+matador/wells/well_1;BLOOM_MRN_NB_1H,47,1,Close,
+matador/wells/well_2;BLOOM_MRN_NB_3H,39,9,Needs work,
+matador/wells/well_3;BLOOM_MRN_NB_5H,37,21,Needs work,
+matador/wells/well_4;BLOOM_MRN_NB_7H,31,13,Needs work,
+Pad Total (matador):289
+matusek/pad;MATUSEK_WHL_BL,69,7,Needs work,
+matusek/wells/well_1;MATUSEK_E_WHL_BL_6H,29,8,Needs work,
+matusek/wells/well_2;MATUSEK_S_WHL_BL_4H,19,16,Needs work,
+matusek/wells/well_3;MATUSEK_W_WHL_BL_2H,19,16,Needs work,
+Pad Total (matusek):202
+miller/pad;MILLER_PLT_BL,0,36,Failed!,
+miller/wells/well_1;MILLER_UNIT_C_2H,19,3,Close,
+miller/wells/well_2;MILLER_UNIT_B_3H,19,3,Close,
+miller/wells/well_3;MILLER_UNIT_A_4H,18,4,Close,
+miller/wells/well_4;MILLER_UNIT_A_6H,22,0,Unable to Process!
+miller/wells/well_5;MILLER_UNIT_C_8H,0,22,Failed!,
+Pad Total (miller):146
+miller_farms/pad;MILLER_FARMS_WSG_GR,65,9,Needs work,
+miller_farms/wells/well_1;MILLER_FARMS_E_WSG_GR_6H,37,18,Needs work,
+miller_farms/wells/well_2;MILLER_FARMS_E_WSG_GR_8H,41,20,Needs work,
+Pad Total (miller_farms):214
+mingo/pad;MINGO_CRC_JF,46,8,Needs work,
+mingo/wells/well_1;MINGO_SE_CRC_JF_6H,35,4,Close,
+mingo/wells/well_2;MINGO_S_CRC_JF_4H,24,15,Needs work,
+mingo/wells/well_3;MINGO_SW_CRC_JF_2H,20,19,Needs work,
+mingo/wells/well_4;MINGO_W_CRC_JF_8H,21,16,Needs work,
+Pad Total (mingo):232
+mobile_gaslift/pad;None,0,0,Unable to Process!
+Pad Total (mobile_gaslift):0
+mobile_gaslift_2/pad;None,0,0,Unable to Process!
+Pad Total (mobile_gaslift_2):0
+mobile_gaslift_3/pad;None,0,0,Unable to Process!
+Pad Total (mobile_gaslift_3):0
+mobile_gaslift_4/pad;None,0,0,Unable to Process!
+Pad Total (mobile_gaslift_4):0
+mobile_gaslift_5/pad;None,0,0,Unable to Process!
+Pad Total (mobile_gaslift_5):0
+mohorovich/pad;MOHOROVICH_RCH_GR,66,41,Needs work,
+mohorovich/wells/well_1;MOHOROVICH_E_RCH_GR_4H,28,14,Needs work,
+mohorovich/wells/well_2;MOHOROVICH_E_RCH_GR_3H,21,21,Needs work,
+mohorovich/wells/well_3;MOHOROVICH_E_RCH_GR_2H,23,19,Needs work,
+mohorovich/wells/well_4;MOHOROVICH_W_RCH_GR_14H,23,19,Needs work,
+mohorovich/wells/well_5;MOHOROVICH_W_RCH_GR_8H,21,21,Needs work,
+mohorovich/wells/well_6;MOHOROVICH_W_RCH_GR_1H,8,35,Needs work,
+Pad Total (mohorovich):433
+monroe/pad;MONROE_NORTH,0,74,Failed!,
+monroe/wells/well_1;MONROE_NORTH_UNIT_1H,0,23,Failed!,
+monroe/wells/well_2;MONROE_NORTH_UNIT_2H,0,23,Failed!,
+monroe/wells/well_3;MONROE_NORTH_UNIT_C_2H,0,24,Failed!,
+Pad Total (monroe):144
+nbl_1/pad;ALABASTER_STC_NB_1,0,16,Failed!,
+nbl_1/wells/well_1;ALABASTER_STC_NB_1_1H,0,21,Failed!,
+Pad Total (nbl_1):49
+nbl_11/pad;LODESTAR_ENC_NB_11,0,30,Failed!,
+nbl_11/wells/well_1;LODESTAR_W_ENC_NB_11_1H,0,23,Failed!,
+nbl_11/wells/well_2;LODESTAR_ENC_NB_11_3H,0,22,Failed!,
+nbl_11/wells/well_3;LODESTAR_E_ENC_NB_11_5H,0,22,Failed!,
+Pad Total (nbl_11):115
+nbl_16/pad;BILLY_SHERMAN_SNC_NB_16,0,37,Failed!,
+nbl_16/wells/well_1;BILLY_SHERMAN_S_SNC_NB_16_1H,0,20,Failed!,
+nbl_16/wells/well_2;BILLY_SHERMAN_N_SNC_NB_16_3H,0,20,Failed!,
+Pad Total (nbl_16):89
+nbl_18/pad;RUBY_OPAL_SNC_NB_18,6,29,Needs work,
+nbl_18/wells/well_1;RUBY_OPAL_SNC_NB_18_5H,7,25,Needs work,
+nbl_18/wells/well_2;RUBY_OPAL_SNC_NB_18_9H,0,32,Failed!,
+nbl_18/wells/well_3;RUBY_OPAL_SNC_NB_18_1H,0,39,Failed!,
+nbl_18/wells/well_4;RUBY_OPAL_SNC_NB_18_3H,0,32,Failed!,
+nbl_18/wells/well_5;RUBY_OPAL_SNC_NB_18_7H,0,32,Failed!,
+nbl_18/wells/well_6;RUBY_OPAL_SE_SNC_NB_6H,0,0,Unable to Process!
+nbl_18/wells/well_7;RUBY_OPAL_S_SNC_NB_4H,0,0,Unable to Process!
+nbl_18/wells/well_8;RUBY_OPAL_SW_SNC_NB_2H,0,0,Unable to Process!
+Pad Total (nbl_18):227
+nbl_19/pad;MOONSTONE_SNC_NB_19,0,51,Failed!,
+nbl_19/wells/well_1;MOONSTONE_SNC_NB_19_1H,0,22,Failed!,
+nbl_19/wells/well_2;MOONSTONE_SNC_NB_19_3H,0,22,Failed!,
+nbl_19/wells/well_3;MOONSTONE_SNC_NB_19_5H,0,22,Failed!,
+Pad Total (nbl_19):135
+nbl_30/pad;MATADOR_MRN_NB_30,8,11,Needs work,
+nbl_30/wells/well_1;MATADOR_MRN_NB_30_6H,26,0,Unable to Process!
+nbl_30/wells/well_2;MATADOR_MRN_NB_30_4H,30,0,Unable to Process!
+nbl_30/wells/well_3;MATADOR_MRN_NB_30_2H,28,0,Unable to Process!
+Pad Total (nbl_30):103
+nbl_33/pad;NORTHSTAR_ENC_NB_33,0,36,Failed!,
+nbl_33/wells/well_1;NORTHSTAR_W_ENC_NB_33_1H,0,21,Failed!,
+nbl_33/wells/well_2;NORTHSTAR_ENC_NB_33_3H,0,21,Failed!,
+nbl_33/wells/well_3;NORTHSTAR_E_ENC_NB_33_5H,0,21,Failed!,
+Pad Total (nbl_33):117
+nbl_34/pad;DEBASER_CNT_NB_34,0,43,Failed!,
+nbl_34/wells/well_1;DEBASER_CNT_NB_34_2H,0,21,Failed!,
+nbl_34/wells/well_2;DEBASER_CNT_NB_34_4H,0,21,Failed!,
+nbl_34/wells/well_3;DEBASER_CNT_NB_34_6H,0,21,Failed!,
+nbl_34/wells/well_4;DEBASER_CNT_NB_34_8H,0,21,Failed!,
+Pad Total (nbl_34):151
+nbl_36/pad;WINSTON_SMITH_STC_NB_36,0,76,Failed!,
+nbl_36/wells/well_1;WINSTON_SMITH_STC_NB_36_2H,0,32,Failed!,
+nbl_36/wells/well_2;WINSTON_SMITH_STC_NB_36_4H,0,32,Failed!,
+nbl_36/wells/well_3;WINSTON_SMITH_STC_NB_36_6H,0,32,Failed!,
+Pad Total (nbl_36):208
+nbl_39/pad;VAULT_MRN_NB_39,0,51,Failed!,
+nbl_39/wells/well_1;VAULT_S_MRN_NB_39_4H,0,21,Failed!,
+nbl_39/wells/well_2;VAULT_N_MRN_NB_39_1H,0,21,Failed!,
+nbl_39/wells/well_3;VAULT_S_MRN_NB_39_2H,0,20,Failed!,
+nbl_39/wells/well_4;VAULT_N_MRN_NB_39_3H,0,20,Failed!,
+Pad Total (nbl_39):158
+noelle/pad;NOELLE_CRC_JF,63,5,Needs work,
+noelle/wells/well_1;NOELLE_SW_CRC_JF_6H,32,7,Needs work,
+noelle/wells/well_2;NOELLE_SW_CRC_JF_4H,22,18,Needs work,
+noelle/wells/well_3;NOELLE_W_CRC_JF_2H,16,24,Needs work,
+noelle/wells/well_4;NOELLE_SE_CRC_JF_8H,17,24,Needs work,
+noelle/wells/well_5;NOELLE_SE_CRC_JF_10H,16,25,Needs work,
+Pad Total (noelle):294
+nolan/pad;NOLAN_CRC_JF,55,5,Needs work,
+nolan/wells/well_1;NOLAN_NW_CRC_JF_1H,28,7,Needs work,
+nolan/wells/well_2;NOLAN_NE_CRC_JF_3H,26,16,Needs work,
+nolan/wells/well_3;NOLAN_S_CRC_JF_2H,29,10,Needs work,
+nolan/wells/well_4;NOLAN_S_CRC_JF_4H,27,8,Needs work,
+nolan/wells/well_5;NOLAN_S_CRC_JF_6H,29,9,Needs work,
+Pad Total (nolan):280
+oboy/pad;OBOY_CLR_BL,40,6,Needs work,
+oboy/wells/well_1;OBOY_NW_CLR_BL_3H,31,11,Needs work,
+oboy/wells/well_2;OBOY_SE_CLR_BL_8H,25,17,Needs work,
+oboy/wells/well_3;OBOY_SW_CLR_BL_4H,20,18,Needs work,
+oboy/wells/well_4;OBOY_SW_CLR_BL_2H,18,20,Needs work,
+oboy/wells/well_5;OBOY_NE_CLR_BL_9H,19,19,Needs work,
+oboy/wells/well_6;OBOY_NE_CLR_BL_7H,20,21,Needs work,
+oboy/wells/well_7;OBOY_N_CLR_BL_5H,19,18,Needs work,
+Pad Total (oboy):362
+oliver/pad;OLIVER_CLR_BL,60,10,Needs work,
+oliver/wells/well_1;OLIVER_E_CLR_BL_10H,35,10,Needs work,
+oliver/wells/well_2;OLIVER_E_CLR_BL_12H,24,21,Needs work,
+oliver/wells/well_3;OLIVER_SW_CLR_BL_2H,22,14,Needs work,
+oliver/wells/well_4;OLIVER_SW_CLR_BL_4H,16,19,Needs work,
+oliver/wells/well_5;OLIVER_SE_CLR_BL_6H,12,24,Needs work,
+oliver/wells/well_6;OLIVER_SE_CLR_BL_8H,7,24,Needs work,
+Pad Total (oliver):328
+omaits/pad;OMAITS_SMF_JF,53,0,Perfect!,
+omaits/wells/well_1;BUDDY_SMF_JF_7H,34,4,Close,
+omaits/wells/well_2;BUDDY_SMF_JF_5H,32,7,Needs work,
+omaits/wells/well_3;OMAITS_SMF_JF_3H,32,7,Needs work,
+omaits/wells/well_4;OMAITS_SMF_JF_1H,30,7,Needs work,
+Pad Total (omaits):230
+oxford_a/pad;ATMOS_OXF_GR,37,6,Needs work,
+oxford_a/wells/well_1;ATMOS_W_OXF_GR_3H,11,0,Perfect!,
+oxford_a/wells/well_2;ATMOS_W_OXF_GR_5H,10,0,Perfect!,
+oxford_a/wells/well_3;ATMOS_W_OXF_GR_1H,10,0,Perfect!,
+oxford_a/wells/well_4;ATMOS_E_OXF_GR_7H,17,0,Perfect!,
+Pad Total (oxford_a):91
+packer/pad;PACKER_MTP_JF,48,3,Close,
+packer/wells/well_1;PACKER_NW_MTP_JF_1H,37,9,Needs work,
+packer/wells/well_2;PACKER_N_MTP_JF_3H,35,11,Needs work,
+packer/wells/well_3;PACKER_NE_MTP_JF_5H,35,11,Needs work,
+Pad Total (packer):207
+pang/pad;PANG_WHL_BL,75,11,Needs work,
+pang/wells/well_1;PANG_WHL_BL_4H,31,5,Needs work,
+pang/wells/well_2;PANG_WHL_BL_2H,31,5,Needs work,
+pang/wells/well_3;PANG_WHL_BL_6H,31,6,Needs work,
+pang/wells/well_4;PANG_NW_WHL_BL_1H,30,8,Needs work,
+pang/wells/well_5;PANG_NW_WHL_BL_3H,31,7,Needs work,
+pang/wells/well_6;PANG_NE_WHL_BL_5H,31,7,Needs work,
+Pad Total (pang):341
+patriot/pad;PATRIOT_STB_JF,67,11,Needs work,
+patriot/wells/well_1;PATRIOT_NW_STB_JF_1H,29,7,Needs work,
+patriot/wells/well_2;PATRIOT_SW_STB_JF_2H,31,18,Needs work,
+patriot/wells/well_3;PATRIOT_NE_STB_JF_3H,30,19,Needs work,
+patriot/wells/well_4;PATRIOT_SW_STB_JF_4H,30,19,Needs work,
+patriot/wells/well_5;PATRIOT_NE_STB_JF_5H,29,12,Needs work,
+patriot/wells/well_6;PATRIOT_SE_STB_JF_6H,23,8,Needs work,
+Pad Total (patriot):363
+pavich/pad;PAVICH,0,31,Failed!,
+pavich/wells/well_1;BAUMBERGER_UNIT_5H,22,0,Unable to Process!
+pavich/wells/well_2;PAVICH_UNIT_1H,0,22,Failed!,
+pavich/wells/well_3;PAVICH_UNIT_3H,0,22,Failed!,
+pavich/wells/well_4;PAVICH_UNIT_5H,0,25,Failed!,
+Pad Total (pavich):122
+pearl/pad;PEARL_WEL_JF,0,53,Failed!,
+pearl/wells/well_1;PEARL_NW_WEL_JF_1H,0,39,Failed!,
+pearl/wells/well_2;PEARL_W_WEL_JF_3H,0,37,Failed!,
+pearl/wells/well_3;PEARL_N_WEL_JF_5H,0,37,Failed!,
+pearl/wells/well_4;PEARL_E_WEL_JF_7H,0,37,Failed!,
+pearl/wells/well_5;PEARL_NE_WEL_JF_9H,0,37,Failed!,
+Pad Total (pearl):270
+pettay/pad;RHF_PETTAY_NTG_HR,62,19,Needs work,
+pettay/wells/well_1;RHF_PETTAY_S_NTG_HR_2H,50,7,Needs work,
+pettay/wells/well_2;RHF_PETTAY_S_NTG_HR_4H,47,8,Needs work,
+pettay/wells/well_3;RHF_PETTAY_S_NTG_HR_6H,49,8,Needs work,
+pettay/wells/well_4;RHF_PETTAY_S_NTG_HR_8H,49,8,Needs work,
+pettay/wells/well_5;RHF_PETTAY_S_NTG_HR_10H,41,16,Needs work,
+Pad Total (pettay):389
+phillips/pad;PHILLIPS_MTP_JF,56,4,Close,
+phillips/wells/well_1;PHILLIPS_NE_MTP_JF_6H,34,3,Close,
+phillips/wells/well_2;PHILLIPS_N_MTP_JF_4H,24,14,Needs work,
+Pad Total (phillips):145
+pickens/pad;PICKENS_SHC_HR,60,4,Close,
+pickens/wells/well_1;PICKENS_W_SHC_HR_1H,39,7,Needs work,
+pickens/wells/well_2;PICKENS_W_SHC_HR_3H,35,9,Needs work,
+pickens/wells/well_3;PICKENS_E_SHC_HR_5H,35,9,Needs work,
+Pad Total (pickens):217
+piergallini/pad;PIERGALLINI_SMF_JF,56,6,Needs work,
+piergallini/wells/well_1;PIERGALLINI_SMF_JF_2H,30,3,Close,
+piergallini/wells/well_2;PIERGALLINI_SMF_JF_4H,20,14,Needs work,
+piergallini/wells/well_3;PIERGALLINI_SMF_JF_6H,20,14,Needs work,
+Pad Total (piergallini):178
+pine_valley/pad;PINE_VALLEY_GRN_HR,52,0,Perfect!,
+pine_valley/wells/well_1;PINE_VALLEY_NW_GRN_HR_1H,37,18,Needs work,
+pine_valley/wells/well_2;PINE_VALLEY_N_GRN_HR_3H,31,18,Needs work,
+pine_valley/wells/well_3;PINE_VALLEY_NE_GRN_HR_5H,32,18,Needs work,
+pine_valley/wells/well_4;PINE_VALLEY_NE_GRN_HR_7H,36,14,Needs work,
+Pad Total (pine_valley):276
+pol/pad;POL_PES_BL,58,12,Needs work,
+pol/wells/well_1;POL_PES_BL_1H,36,5,Needs work,
+pol/wells/well_2;POL_PES_BL_3H,32,12,Needs work,
+pol/wells/well_3;POL_PES_BL_5H,19,8,Needs work,
+pol/wells/well_4;FINNEY_PES_BL_1H,31,11,Needs work,
+Pad Total (pol):239
+porco/pad;PORCO_WRN_JF,50,3,Close,
+porco/wells/well_1;CREAMER_WRN_JF_4H,45,2,Close,
+porco/wells/well_2;CREAMER_WRN_JF_2H,33,9,Needs work,
+Pad Total (porco):152
+porterfield/pad;PORTERFIELD_A_RCH_BL,0,11,Unable to Process!
+porterfield/wells/well_1;PORTERFIELD_GAS_UNIT_C_1H-17,0,2,Unable to Process!
+Pad Total (porterfield):0
+porterfield_b/pad;PORTERFIELD_B_RCH_BL,121,0,Unable to Process!
+porterfield_b/wells/well_1;PORTERFIELD_B_W_RCH_BL_3H-A,0,43,Failed!,
+porterfield_b/wells/well_2;PORTERFIELD_B_W_RCH_BL_1H,0,43,Failed!,
+porterfield_b/wells/well_3;PORTERFIELD_B_E_RCH_BL_5H,0,43,Failed!,
+porterfield_b/wells/well_4;PORTERFIELD_B_E_RCH_BL_7H,48,0,Unable to Process!
+porterfield_b/wells/well_5;PORTERFIELD_B_E_RCH_BL_9H,48,0,Unable to Process!
+Pad Total (porterfield_b):361
+prosser/pad;PROSSER_E_UNN_BL,36,4,Close,
+prosser/wells/well_1;PROSSER_SW_UNN_BL_4H,34,7,Needs work,
+prosser/wells/well_2;PROSSER_SE_UNN_BL_6H,29,12,Needs work,
+prosser/wells/well_3;PROSSER_SE_UNN_BL_8H,21,14,Needs work,
+prosser/wells/well_4;PROSSER_SW_UNN_BL_2H,10,29,Needs work,
+prosser/wells/well_5;PROSSER_SE_UNN_BL_10H,11,28,Needs work,
+Pad Total (prosser):266
+r_hoover/pad;R_HOOVER_WHL_BL,86,13,Needs work,
+r_hoover/wells/well_1;R_HOOVER_WHL_BL_5H,31,3,Close,
+r_hoover/wells/well_2;R_HOOVER_WHL_BL_3H,24,14,Needs work,
+r_hoover/wells/well_3;R_HOOVER_WHL_BL_1H,21,14,Needs work,
+r_hoover/wells/well_4;R_HOOVER_SE_WHL_BL_8H,18,25,Needs work,
+r_hoover/wells/well_5;R_HOOVER_S_WHL_BL_6H,22,20,Needs work,
+r_hoover/wells/well_6;R_HOOVER_W_WHL_BL_4H,14,31,Needs work,
+r_hoover/wells/well_7;R_HOOVER_SW_WHL_BL_2H,14,27,Needs work,
+Pad Total (r_hoover):420
+raber/pad;RABER_LND_GR,78,9,Needs work,
+raber/wells/well_1;RABER_E_LND_GR_12H,37,17,Needs work,
+raber/wells/well_2;RABER_E_LND_GR_10H,33,21,Needs work,
+raber/wells/well_3;RABER_E_LND_GR_8H,31,23,Needs work,
+raber/wells/well_4;RABER_W_LND_GR_6H,32,22,Needs work,
+raber/wells/well_5;RABER_W_LND_GR_4H,14,32,Needs work,
+raber/wells/well_6;RABER_W_LND_GR_2H,13,37,Needs work,
+Pad Total (raber):460
+rector/pad;RECTOR_MTP_JF,84,4,Close,
+rector/wells/well_1;RECTOR_MTP_JF_2H,31,8,Needs work,
+rector/wells/well_2;RECTOR_MTP_JF_4H,23,12,Needs work,
+rector/wells/well_3;RECTOR_MTP_JF_6H,23,12,Needs work,
+rector/wells/well_4;RECTOR_NE_MTP_JF_5H,36,10,Needs work,
+rector/wells/well_5;RECTOR_N_MTP_JF_3H,34,10,Needs work,
+rector/wells/well_6;RECTOR_NW_MTP_JF_1H,51,0,Unable to Process!
+Pad Total (rector):363
+rector_c/pad;RECTOR_C_RCH_GR,73,11,Needs work,
+rector_c/wells/well_1;RECTOR_C_RCH_GR_4H,55,1,Close,
+rector_c/wells/well_2;RECTOR_C_RCH_GR_3H,44,11,Needs work,
+rector_c/wells/well_3;RECTOR_E_RCH_GR_2H,42,14,Needs work,
+rector_c/wells/well_4;RECTOR_1-H,43,13,Needs work,
+rector_c/wells/well_5;RECTOR_E_RCH_GR_6H,44,12,Needs work,
+rector_c/wells/well_6;RECTOR_C_RCH_GR_11H,32,37,Needs work,
+Pad Total (rector_c):511
+red_hill/pad;RED_HILL_FARM_MDS_GR,101,3,Close,
+red_hill/wells/well_1;RED_HILL_FARM_MDS_GR_5H,40,15,Needs work,
+red_hill/wells/well_2;RED_HILL_FARM_MDS_GR_3H,32,21,Needs work,
+red_hill/wells/well_3;RED_HILL_FARM_MDS_GR_1H,32,21,Needs work,
+red_hill/wells/well_4;RED_HILL_FARM_SE_MDS_GR_10H,32,8,Needs work,
+red_hill/wells/well_5;RED_HILL_FARM_SE_MDS_GR_8H,32,8,Needs work,
+red_hill/wells/well_6;RED_HILL_FARM_SE_MDS_GR_6H,16,25,Needs work,
+red_hill/wells/well_7;RED_HILL_FARM_SW_MDS_GR_4H,16,25,Needs work,
+Pad Total (red_hill):477
+reitz/pad;REITZ_MED_BL,43,1,Close,
+reitz/wells/well_1;REITZ_UNIT_5H,23,7,Needs work,
+reitz/wells/well_2;REITZ_UNIT_MED_BL_3H,37,7,Needs work,
+reitz/wells/well_3;NORTH_WEST_MED_BL_4H,42,7,Needs work,
+Pad Total (reitz):167
+rock_ridge/pad;ROCK_RIDGE_WRN_BL,96,81,Needs work,
+rock_ridge/wells/well_1;ROCK_RIDGE_SW_WRN_BL_2H,38,7,Needs work,
+rock_ridge/wells/well_2;ROCK_RIDGE_SW_WRN_BL_4H,26,17,Needs work,
+rock_ridge/wells/well_3;ROCK_RIDGE_S_WRN_BL_6H,21,22,Needs work,
+rock_ridge/wells/well_4;ROCK_RIDGE_S_WRN_BL_8H,22,22,Needs work,
+rock_ridge/wells/well_5;ROCK_RIDGE_SE_WRN_BL_10H,21,24,Needs work,
+Pad Total (rock_ridge):427
+ronald/pad;RONALD_SMF_JF,51,0,Perfect!,
+ronald/wells/well_1;RONALD_S_SMF_JF_2H,32,4,Close,
+ronald/wells/well_2;RONALD_S_SMF_JF_4H,30,7,Needs work,
+ronald/wells/well_3;RONALD_NE_SMF_JF_1H,32,7,Needs work,
+Pad Total (ronald):181
+rose/pad;ROSE_NTG_HR,62,19,Needs work,
+rose/wells/well_1;ROSE_S_NTG_HR_8H,43,11,Needs work,
+rose/wells/well_2;ROSE_S_NTG_HR_6H,44,10,Needs work,
+rose/wells/well_3;ROSE_S_NTG_HR_4H,43,11,Needs work,
+rose/wells/well_4;ROSE_S_NTG_HR_2H,43,11,Needs work,
+Pad Total (rose):337
+ross/pad;ROSS_WHL_BL,65,8,Needs work,
+ross/wells/well_1;ROSS_NW_WHL_BL_1H,32,7,Needs work,
+ross/wells/well_2;ROSS_NE_WHL_BL_3H,22,26,Needs work,
+ross/wells/well_3;ROSS_SW_WHL_BL_2H,14,28,Needs work,
+Pad Total (ross):217
+roxy/pad;ROXY_CRC_JF,50,1,Close,
+roxy/wells/well_1;ROXY_NW_CRC_JF_1H,34,4,Close,
+roxy/wells/well_2;ROXY_N_CRC_JF_3H,32,7,Needs work,
+roxy/wells/well_3;ROXY_NE_CRC_JF_5H,32,7,Needs work,
+Pad Total (roxy):185
+ruth/pad;RUTH_MTP_JF,52,9,Needs work,
+ruth/wells/well_1;RUTH_E_MTP_JF_8H,32,4,Close,
+ruth/wells/well_2;RUTH_E_MTP_JF_6H,30,7,Needs work,
+ruth/wells/well_3;RUTH_W_MTP_JF_4H,30,7,Needs work,
+ruth/wells/well_4;RUTH_W_MTP_JF_2H,32,7,Needs work,
+ruth/wells/well_5;RUTH_NE_MTP_JF_9H,16,30,Needs work,
+ruth/wells/well_6;RUTH_MTP_JF_7H,15,32,Needs work,
+ruth/wells/well_7;RUTH_C_MTP_JF_5H,14,33,Needs work,
+ruth/wells/well_8;RUTH_N_MTP_JF_3H,14,33,Needs work,
+ruth/wells/well_9;RUTH_NW_MTP_JF_1H,18,23,Needs work,
+Pad Total (ruth):487
+satori/pad;SATORI_WEL_JF,49,0,Perfect!,
+satori/wells/well_1;SATORI_SE_WEL_JF_4H,34,4,Close,
+satori/wells/well_2;SATORI_SW_WEL_JF_2H,34,5,Needs work,
+satori/wells/well_3;SATORI_N_WEL_JF_3H,33,5,Needs work,
+satori/wells/well_4;SATORI_N_WEL_JF_1H,33,5,Needs work,
+Pad Total (satori):222
+schnegg/pad;SCHNEGG_UNIT_B,33,39,Needs work,
+schnegg/wells/well_1;SCHNEGG_UNIT_C_7H,30,6,Needs work,
+schnegg/wells/well_2;SCHNEGG_UNIT_B_9H,30,6,Needs work,
+schnegg/wells/well_3;SCHNEGG_UNIT_C_5H,30,6,Needs work,
+schnegg/wells/well_4;SCHNEGG_UNIT_B_3H,30,6,Needs work,
+Pad Total (schnegg):216
+scout/pad;SCOUT_SHC_HR,0,0,Failed!,
+scout/wells/well_1;SCOUT_E_SHC_HR_5H,0,78,Unable to Process!
+scout/wells/well_2;SCOUT_W_SHC_HR_3H,0,73,Unable to Process!
+scout/wells/well_3;SCOUT_W_SHC_HR_1H,0,73,Unable to Process!
+scout/wells/well_4;SCOUT_NE_SHC_HR_11H,0,73,Unable to Process!
+scout/wells/well_5;SCOUT_N_SHC_HR_9H,0,73,Unable to Process!
+scout/wells/well_6;SCOUT_NW_SHC_HR_7H,0,73,Unable to Process!
+Pad Total (scout):2
+seabright/pad;SEABRIGHT_CLR_BL,70,4,Close,
+seabright/wells/well_1;SEABRIGHT_CLR_BL_6H,19,14,Needs work,
+seabright/wells/well_2;SEABRIGHT_CLR_BL_4H,19,14,Needs work,
+seabright/wells/well_3;SEABRIGHT_CLR_BL_2H-A,23,6,Needs work,
+seabright/wells/well_4;SEABRIGHT_N_CLR_BL_3H,35,0,Unable to Process!
+seabright/wells/well_5;SEABRIGHT_N_CLR_BL_1H,38,0,Unable to Process!
+Pad Total (seabright):257
+sheporgi/pad;SHEPORGI_GRN_HR,59,0,Perfect!,
+sheporgi/wells/well_1;SHEPORGI_E_GRN_HR_5H,0,35,Failed!,
+sheporgi/wells/well_2;SHEPORGI_GRN_HR_3H,18,27,Needs work,
+sheporgi/wells/well_3;SHEPORGI_W_GRN_HR_1H,0,32,Failed!,
+sheporgi/wells/well_4;SHEPORGI_SW_GRN_HR_2H,10,20,Needs work,
+sheporgi/wells/well_5;SHEPORGI_SW_GRN_HR_4H,10,21,Needs work,
+sheporgi/wells/well_6;SHEPORGI_S_GRN_HR_6H,35,0,Unable to Process!
+sheporgi/wells/well_7;SHEPORGI_S_GRN_HR_8H,35,0,Unable to Process!
+sheporgi/wells/well_8;SHEPORGI_SE_GRN_HR_10H,35,0,Unable to Process!
+Pad Total (sheporgi):365
+sherwood/pad;SHERWOOD_MRF_HR,40,8,Needs work,
+sherwood/wells/well_1;SHERWOOD_E_MRF_HR_9H,39,1,Close,
+sherwood/wells/well_2;SHERWOOD_MRF_HR_3H,33,7,Needs work,
+sherwood/wells/well_3;SHERWOOD_W_MRF_HR_1H,30,9,Needs work,
+Pad Total (sherwood):186
+shipman/pad;SHIPMAN_WLS_GR,82,10,Needs work,
+shipman/wells/well_1;SHIPMAN_WLS_GR_6H,38,16,Needs work,
+shipman/wells/well_2;SHIPMAN_WLS_GR_4H,39,21,Needs work,
+shipman/wells/well_3;SHIPMAN_WLS_GR_2H,37,23,Needs work,
+Pad Total (shipman):296
+shugert/pad;SHUGERT_DADDY_WLS_GR,78,31,Needs work,
+shugert/wells/well_1;SHUGERT_DADDY_E_WLS_GR_5H,44,12,Needs work,
+shugert/wells/well_2;SHUGERT_DADDY_WLS_GR_3H,51,11,Needs work,
+shugert/wells/well_3;SHUGERT_DADDY_WLS_GR_1H,45,11,Needs work,
+Pad Total (shugert):313
+shutway/pad;SHUTWAY_UNN_BL,50,3,Close,
+shutway/wells/well_1;SHUTWAY_SE_UNN_BL_8H,38,7,Needs work,
+shutway/wells/well_2;SHUTWAY_E_UNN_BL_6H,25,20,Needs work,
+shutway/wells/well_3;SHUTWAY_E_UNN_BL_4H,21,24,Needs work,
+shutway/wells/well_4;SHUTWAY_W_UNN_BL_2H,22,24,Needs work,
+Pad Total (shutway):254
+sidwell/pad;SIDWELL_WHL_BL,82,9,Needs work,
+sidwell/wells/well_1;SIDWELL_S_WHL_BL_6H,14,25,Needs work,
+sidwell/wells/well_2;SIDWELL_SW_WHL_BL_4H,13,26,Needs work,
+sidwell/wells/well_3;SIDWELL_SW_WHL_BL_2H,27,7,Needs work,
+sidwell/wells/well_4;SIDWELL_SE_WHL_BL_8H,26,9,Needs work,
+sidwell/wells/well_5;SIDWELL_SE_WHL_BL_10H,26,9,Needs work,
+sidwell/wells/well_6;SIDWELL_N_WHL_BL_1H,26,9,Needs work,
+Pad Total (sidwell):342
+skull_fork/pad;SKULL_FORK_LND_GR,0,0,Unable to Process!
+skull_fork/wells/well_1;SKULL_FORK_NW_LND_GR_1H,1,0,Unable to Process!
+skull_fork/wells/well_2;SKULL_FORK_W_LND_GR_3H,0,0,Unable to Process!
+skull_fork/wells/well_3;SKULL_FORK_N_LND_GR_5H,0,0,Unable to Process!
+skull_fork/wells/well_4;SKULL_FORK_NE_LND_GR_7H,0,0,Unable to Process!
+Pad Total (skull_fork):1
+skull_fork_b/pad;SKULL_FORK_LND_GR,0,0,Unable to Process!
+skull_fork_b/wells/well_1;SKULL_FORK_SW_LND_GR_2H,0,0,Unable to Process!
+skull_fork_b/wells/well_2;SKULL_FORK_S_LND_GR_4H,0,0,Unable to Process!
+skull_fork_b/wells/well_3;SKULL_FORK_S_LND_GR_6H,0,0,Unable to Process!
+skull_fork_b/wells/well_4;SKULL_FORK_SE_LND_GR_8H,0,0,Unable to Process!
+Pad Total (skull_fork_b):0
+skyline/pad;SKYLINE_WHL_BL,25,1,Close,
+skyline/wells/well_1;SKYLINE_E_WHL_BL_6H,39,3,Close,
+skyline/wells/well_2;SKYLINE_E_WHL_BL_4H,33,9,Needs work,
+skyline/wells/well_3;SKYLINE_W_WHL_BL_2H,31,11,Needs work,
+Pad Total (skyline):170
+slabaugh/pad;SLABAUGH_RCH_GR,81,25,Needs work,
+slabaugh/wells/well_1;SLABAUGH_E_RCH_GR_5H,29,14,Needs work,
+slabaugh/wells/well_2;SLABAUGH_W_RCH_GR_3H,27,17,Needs work,
+slabaugh/wells/well_3;SLABAUGH_W_RCH_GR_1H,27,16,Needs work,
+Pad Total (slabaugh):251
+smith/pad;SMITH_CLR_BL,62,0,Perfect!,
+smith/wells/well_1;SMITH_NW_CLR_BL_1H,33,0,Perfect!,
+smith/wells/well_2;SMITH_NE_CLR_BL_3H,29,3,Close,
+smith/wells/well_3;SMITH_NE_CLR_BL_5H,29,3,Close,
+smith/wells/well_4;SMITH_NE_CLR_BL_7H,29,3,Close,
+smith/wells/well_5;SMITH_SW_CLR_BL_2H,16,16,Needs work,
+smith/wells/well_6;SMITH_SE_CLR_BL_4H,11,18,Needs work,
+smith/wells/well_7;SMITH_SE_CLR_BL_6H,12,18,Needs work,
+Pad Total (smith):317
+smithfield/pad;SMITHFIELD_SMF_JF,86,26,Needs work,
+smithfield/wells/well_1;SMITHFIELD_A_1H-27,21,1,Close,
+smithfield/wells/well_2;SMITHFIELD_N_SMF_JF_7H,22,1,Close,
+smithfield/wells/well_3;SMITHFIELD_N_SMF_JF_5H,22,1,Close,
+smithfield/wells/well_4;DALRYMPLE_SMF_JF_3H,22,1,Close,
+smithfield/wells/well_5;SMITHFIELD_A_2H,30,1,Close,
+smithfield/wells/well_6;SMITHFIELD_S_SMF_JF_4H,22,1,Close,
+Pad Total (smithfield):287
+sparger/pad;RH_SPARGER_NTG_HR,55,9,Needs work,
+sparger/wells/well_1;RH_SPARGER_E_NTG_HR_7H,37,1,Close,
+sparger/wells/well_2;RH_SPARGER_E_NTG_HR_5H,31,7,Needs work,
+sparger/wells/well_3;RH_SPARGER_W_NTG_HR_3H,29,9,Needs work,
+sparger/wells/well_4;RH_SPARGER_W_NTG_HR_1H,29,9,Needs work,
+Pad Total (sparger):241
+sport/pad;SPORT_WYN_JF,48,1,Close,
+sport/wells/well_1;SPORT_E_WYN_JF_3H,31,13,Needs work,
+sport/wells/well_2;SPORT_W_WYN_JF_1H,14,28,Needs work,
+Pad Total (sport):145
+sproull/pad;RHF_SPROULL_NTG_HR,57,15,Needs work,
+sproull/wells/well_1;RHF_SPROULL_NTG_HR_1H,36,4,Close,
+sproull/wells/well_2;RHF_SPROULL_NTG_HR_3H,33,7,Needs work,
+sproull/wells/well_3;RHF_SPROULL_NTG_HR_5H,33,7,Needs work,
+sproull/wells/well_4;RHF_SPROULL_NTG_HR_7H,33,7,Needs work,
+sproull/wells/well_5;RHF_SPROULL_NTG_HR_9H,12,28,Needs work,
+Pad Total (sproull):298
+stella/pad;STELLA_MDS_GR,26,0,Unable to Process!
+stella/wells/well_1;STELLA_SW_MDS_GR_2H,0,0,Unable to Process!
+stella/wells/well_2;STELLA_SW_MDS_GR_4H,0,0,Unable to Process!
+stella/wells/well_3;STELLA_SE_MDS_GR_6H,0,0,Unable to Process!
+stella/wells/well_4;STELLA_SE_MDS_GR_8H,0,0,Unable to Process!
+Pad Total (stella):26
+stone/pad;STONE_CRC_JF,66,42,Needs work,
+stone/wells/well_1;STONE_SE_CRC_JF_6H,34,4,Close,
+stone/wells/well_2;STONE_NE_CRC_JF_5H,24,12,Needs work,
+stone/wells/well_3;STONE_NW_CRC_JF_1H,29,7,Needs work,
+stone/wells/well_4;SMITH_UNIT_1,40,0,Unable to Process!
+stone/wells/well_5;STONE_SW_CRC_JF_2H,49,0,Unable to Process!
+stone/wells/well_6;STONE_S_CRC_JF_4H-A,49,0,Unable to Process!
+stone/wells/well_7;STONE_E_CRC_JF_8H,49,0,Unable to Process!
+stone/wells/well_8;STONE_NE_CRC_JF_7H,70,0,Unable to Process!
+Pad Total (stone):495
+tanner/pad;TANNER_WYN_JF,46,4,Close,
+tanner/wells/well_1;TANNER_WYN_JF_4H,34,4,Close,
+tanner/wells/well_2;TANNER_WYN_JF_2H,24,15,Needs work,
+Pad Total (tanner):137
+tarbert/pad;RH_TARBERT_MRF_HR,57,28,Needs work,
+tarbert/wells/well_1;RH_TARBERT_MRF_HR_1H,32,8,Needs work,
+tarbert/wells/well_2;RH_TARBERT_MRF_HR_3H,32,8,Needs work,
+tarbert/wells/well_3;RH_TARBERT_MRF_HR_5H,32,8,Needs work,
+Pad Total (tarbert):220
+tarpley/pad;TARPLEY_OXF_GR,61,0,Perfect!,
+tarpley/wells/well_1;TARPLEY_OXF_GR_1H,43,1,Close,
+tarpley/wells/well_2;TARPLEY_OXF_GR_3H,35,13,Needs work,
+tarpley/wells/well_3;TARPLEY_OXF_GR_5H,27,21,Needs work,
+Pad Total (tarpley):216
+thomas/pad;THOMAS_LND_GR,77,4,Close,
+thomas/wells/well_1;THOMAS_S_LND_GR_6H,26,0,Perfect!,
+thomas/wells/well_2;THOMAS_NE_LND_GR_5H,21,13,Needs work,
+thomas/wells/well_3;THOMAS_S_LND_GR_4H,17,9,Needs work,
+thomas/wells/well_4;THOMAS_NW_LND_GR_3H,17,17,Needs work,
+thomas/wells/well_5;THOMAS_S_LND_GR_2H,2,24,Needs work,
+thomas/wells/well_6;THOMAS_NW_LND_GR_1H,0,34,Failed!,
+Pad Total (thomas):291
+thompson/pad;THOMPSON_SMF_JF,46,2,Close,
+thompson/wells/well_1;THOMPSON_W_SMF_JF_1H,33,2,Close,
+thompson/wells/well_2;THOMPSON_W_SMF_JF_3H,28,7,Needs work,
+thompson/wells/well_3;THOMPSON_E_SMF_JF_5H,28,7,Needs work,
+Pad Total (thompson):168
+three_dads/pad;THREE_DADS_RCH_BL,44,2,Close,
+three_dads/wells/well_1;THREE_DADS_RCH_BL_2H,36,7,Needs work,
+three_dads/wells/well_2;THREE_DADS_RCH_BL_4H,26,25,Needs work,
+three_dads/wells/well_3;EARLEY-ROSE_RCH_BL_6H,27,10,Needs work,
+Pad Total (three_dads):195
+triplett/pad;TRIPLETT_FRK_HR,73,24,Needs work,
+triplett/wells/well_1;TRIPLETT_N_FRK_HR_1H,31,9,Needs work,
+triplett/wells/well_2;TRIPLETT_S_FRK_HR_2H,26,14,Needs work,
+triplett/wells/well_3;TRIPLETT_N_FRK_HR_3H,29,9,Needs work,
+triplett/wells/well_4;TRIPLETT_S_FRK_HR_4H,29,11,Needs work,
+triplett/wells/well_5;TRIPLETT_N_FRK_HR_5H,29,11,Needs work,
+triplett/wells/well_6;TRIPLETT_S_FRK_HR_6H,29,11,Needs work,
+Pad Total (triplett):365
+troyer/pad;TROYER_LND_GR,65,6,Needs work,
+troyer/wells/well_1;TROYER_E_LND_GR_7H,23,2,Close,
+troyer/wells/well_2;TROYER_W_LND_GR_5H,23,2,Close,
+troyer/wells/well_3;TROYER_W_LND_GR_1H,23,3,Close,
+troyer/wells/well_4;TROYER_W_LND_GR_3H,25,2,Close,
+troyer/wells/well_5;TROYER_E_LND_GR_9H,7,2,Close,
+troyer/wells/well_6;TROYER_E_LND_GR_11H,7,2,Close,
+Pad Total (troyer):212
+truchan/pad;TRUCHAN_NE_WHL_BL,55,12,Needs work,
+truchan/wells/well_1;TRUCHAN_NW_WHL_BL_5H,30,10,Needs work,
+truchan/wells/well_2;TRUCHAN_SW_WHL_BL_6H,29,11,Needs work,
+truchan/wells/well_3;TRUCHAN_NE_WHL_BL_1H,30,10,Needs work,
+Pad Total (truchan):202
+truchan_nw/pad;TRUCHAN_NW_WHL_BL,63,16,Needs work,
+truchan_nw/wells/well_1;TRUCHAN_SW_WHL_BL_4H,33,2,Close,
+truchan_nw/wells/well_2;TRUCHAN_SW_WHL_BL_2H,29,7,Needs work,
+truchan_nw/wells/well_3;TRUCHAN_NW_WHL_BL_3H,29,7,Needs work,
+truchan_nw/wells/well_4;TRUCHAN_NW_WHL_BL_1H,26,9,Needs work,
+Pad Total (truchan_nw):246
+una/pad;UNA_SHC_HR,120,0,Unable to Process!
+una/wells/well_1;UNA_E_SHC_HR_13H,52,0,Unable to Process!
+una/wells/well_2;UNA_NE_SHC_HR_11H,53,0,Unable to Process!
+una/wells/well_3;UNA_SHC_HR_9H,47,0,Unable to Process!
+una/wells/well_4;UNA_C_SHC_HR_7H,0,0,Unable to Process!
+Pad Total (una):272
+vannelle/pad;VANNELLE_WHL_BL,93,8,Needs work,
+vannelle/wells/well_1;VANNELLE_SE_WHL_BL_6H,26,12,Needs work,
+vannelle/wells/well_2;VANNELLE_S_WHL_BL_4H,21,16,Needs work,
+vannelle/wells/well_3;VANNELLE_SW_WHL_BL_2H,21,16,Needs work,
+vannelle/wells/well_4;VANNELLE_NE_WHL_BL_5H,61,0,Unable to Process!
+vannelle/wells/well_5;VANNELLE_N_WHL_BL_3H,62,0,Unable to Process!
+vannelle/wells/well_6;VANNELLE_NW_WHL_BL_1H,62,0,Unable to Process!
+Pad Total (vannelle):414
+victor/pad;VICTOR_WRN_BL,0,0,Unable to Process!
+victor/wells/well_1;VICTOR_NE_WRN_BL_7H,0,0,Unable to Process!
+victor/wells/well_2;VICTOR_NE_WRN_BL_5H,0,0,Unable to Process!
+victor/wells/well_3;VICTOR_NW_WRN_BL_3H,0,0,Unable to Process!
+victor/wells/well_4;VICTOR_NW_WRN_BL_1H,0,0,Unable to Process!
+Pad Total (victor):0
+victoria/pad;VICTORIA_ATH_HR,91,5,Needs work,
+victoria/wells/well_1;VICTORIA_W_ATH_HR_2H,43,3,Close,
+victoria/wells/well_2;VICTORIA_S_ATH_HR_4H,33,15,Needs work,
+victoria/wells/well_3;VICTORIA_S_ATH_HR_6H,27,23,Needs work,
+victoria/wells/well_4;VICTORIA_E_ATH_HR_8H,27,21,Needs work,
+victoria/wells/well_5;VICTORIA_E_ATH_HR_10H,0,46,Failed!,
+Pad Total (victoria):364
+vincent/pad;VINCENT_MTP_JF,50,1,Close,
+vincent/wells/well_1;VINCENT_E_MTP_JF_3H,37,4,Close,
+vincent/wells/well_2;VINCENT_E_MTP_JF_5H,30,11,Needs work,
+Pad Total (vincent):145
+violet/pad;VIOLET,12,17,Needs work,
+violet/wells/well_1;VIOLET_UNIT_5H,23,2,Close,
+Pad Total (violet):54
+wagler/pad;WAGLER_LND_GR,13,1,Close,
+wagler/wells/well_1;WAGLER_1H,0,17,Unable to Process!
+wagler/wells/well_2;WAGLER_LND_GR_2H,0,7,Failed!,
+Pad Total (wagler):21
+waldo/pad;WALDO_MNR_GR,85,3,Close,
+waldo/wells/well_1;WALDO_E_MNR_GR_6H,49,2,Close,
+Pad Total (waldo):146
+wampum/pad;WAMPUM_RCH_GR,65,18,Needs work,
+wampum/wells/well_1;WAMPUM_RCH_GR_5H,37,14,Needs work,
+wampum/wells/well_2;WAMPUM_RCH_GR_3H,32,20,Needs work,
+wampum/wells/well_3;WAMPUM_RCH_GR_1H,31,21,Needs work,
+Pad Total (wampum):268
+warren_a/pad;AXLE_WRN_BL,36,8,Needs work,
+warren_a/wells/well_1;AXLE_WRN_BL_9H,20,0,Perfect!,
+warren_a/wells/well_2;AXLE_WRN_BL_1H,20,0,Perfect!,
+warren_a/wells/well_3;AXLE_WRN_BL_3H,20,0,Perfect!,
+warren_a/wells/well_4;AXLE_WRN_BL_5H,20,0,Perfect!,
+warren_a/wells/well_5;AXLE_WRN_BL_7H,20,0,Perfect!,
+Pad Total (warren_a):144
+wassmann/pad;WASSMANN,39,7,Needs work,
+wassmann/wells/well_1;WASSMANN_UNIT_B_5H,24,7,Needs work,
+wassmann/wells/well_2;WASSMANN_UNIT_A_6H,24,7,Needs work,
+wassmann/wells/well_3;WASSMANN_A_PLT_BL_1H,32,7,Needs work,
+wassmann/wells/well_4;WASSMANN_B_PLT_BL_4H,35,5,Needs work,
+wassmann/wells/well_5;WASSMANN_B_PLT_BL_2H,33,7,Needs work,
+Pad Total (wassmann):227
+watson/pad;WATSON_MLW_GR,75,2,Close,
+watson/wells/well_1;WATSON_W_MLW_GR_5H,44,17,Needs work,
+watson/wells/well_2;WATSON_W_MLW_GR_3H,42,29,Needs work,
+watson/wells/well_3;WATSON_W_MLW_GR_1H,35,37,Needs work,
+watson/wells/well_4;WATSON_E_MLW_GR_7H,30,30,Needs work,
+watson/wells/well_5;WATSON_E_MLW_GR_9H,24,37,Needs work,
+watson/wells/well_6;WATSON_E_MLW_GR_11H,7,55,Needs work,
+Pad Total (watson):536
+wayne/pad;NAC_B_WYN_JF,99,12,Needs work,
+wayne/wells/well_1;NAC_GAS_UNIT_B_3H-3,42,30,Needs work,
+wayne/wells/well_2;NAC_B_WYN_JF_5H,42,31,Needs work,
+wayne/wells/well_3;NAC_B_WYN_JF_3H,59,13,Needs work,
+wayne/wells/well_4;NAC_B_WYN_JF_1H,33,7,Needs work,
+wayne/wells/well_5;PUGGLE_W_WYN_JF_2H,42,0,Unable to Process!
+wayne/wells/well_6;PUGGLE_E_WYN_JF_4H,44,0,Unable to Process!
+wayne/wells/well_7;PUGGLE_E_WYN_JF_6H,47,0,Unable to Process!
+Pad Total (wayne):536
+west/pad;WEST,0,45,Failed!,
+west/wells/well_1;WEST_UNIT_1H,0,25,Failed!,
+west/wells/well_2;NORTH_WEST_UNIT_2H,25,0,Unable to Process!
+west/wells/well_3;WEST_UNIT_5H,0,25,Failed!,
+west/wells/well_4;WEST_UNIT_7H,25,0,Unable to Process!
+Pad Total (west):145
+wheeling_valley/pad;WHEELING_VALLEY_WHL_BL,59,6,Needs work,
+wheeling_valley/wells/well_1;WHEELING_VALLEY_W_WHL_BL_2H,29,2,Close,
+wheeling_valley/wells/well_2;WHEELING_VALLEY_W_WHL_BL_4H,22,7,Needs work,
+wheeling_valley/wells/well_3;WHEELING_VALLEY_E_WHL_BL_6H,25,7,Needs work,
+Pad Total (wheeling_valley):177
+wilma/pad;WILMA_WRN_JF,51,5,Needs work,
+wilma/wells/well_1;WILMA_E_WRN_JF_5H,33,3,Close,
+wilma/wells/well_2;WILMA_W_WRN_JF_3H,23,14,Needs work,
+wilma/wells/well_3;WILMA_W_WRN_JF_1H,23,14,Needs work,
+Pad Total (wilma):185
+wise/pad;WISE_PLT_BL,51,71,Needs work,
+wise/wells/well_1;WISE_SW_PLT_BL_2H,26,6,Needs work,
+wise/wells/well_2;WISE_SW_PLT_BL_4H,20,13,Needs work,
+wise/wells/well_3;WISE_SE_PLT_BL_6H,24,8,Needs work,
+wise/wells/well_4;WISE_SE_PLT_BL_8H,20,12,Needs work,
+wise/wells/well_5;WISE_NE_PLT_BL_7H,40,0,Unable to Process!
+wise/wells/well_6;WISE_NE_PLT_BL_5H,41,0,Unable to Process!
+wise/wells/well_7;WISE_NW_PLT_BL_3H,40,0,Unable to Process!
+wise/wells/well_8;WISE_NW_PLT_BL_1H,40,0,Unable to Process!
+Pad Total (wise):432
+wright/pad;WRIGHT,32,0,Unable to Process!
+wright/wells/well_1;WRIGHT_UNIT_B_3H,21,0,Unable to Process!
+wright/wells/well_2;WRIGHT_UNIT_A_7H,21,0,Unable to Process!
+wright/wells/well_3;WRIGHT_UNIT_A_5H,16,0,Unable to Process!
+wright/wells/well_4;WRIGHT_UNIT_B_1H,16,0,Unable to Process!
+Pad Total (wright):106
+zeds/pad;ZEDS_MTP_JF,46,3,Close,
+zeds/wells/well_1;HARR_E_MTP_JF_2H,34,4,Close,
+zeds/wells/well_2;HARR_E_MTP_JF_4H,24,15,Needs work,
+Pad Total (zeds):138
+zimnox/pad;ZIMNOX_WEL_JF,57,4,Close,
+zimnox/wells/well_1;ZIMNOX_SW_WEL_JF_2H,34,2,Close,
+zimnox/wells/well_2;ZIMNOX_S_WEL_JF_4H,29,7,Needs work,
+zimnox/wells/well_3;ZIMNOX_SE_WEL_JF_6H,29,7,Needs work,
+zimnox/wells/well_4;ZIMNOX_E_WEL_JF_8H,29,7,Needs work,
